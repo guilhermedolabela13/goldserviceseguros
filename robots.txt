@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /obrigado.html
+
+Sitemap: https://goldserviceseguros.com.br/sitemap.xml
