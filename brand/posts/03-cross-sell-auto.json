@@ -1,0 +1,20 @@
+{
+  "id": "03-cross-sell-auto",
+  "titulo": "Cross-sell: o cliente de auto é a sua melhor carteira",
+  "pilar": "Inteligência comercial",
+  "formato": "carrossel",
+  "referencia": "ref-lista-principios",
+  "slides": [
+    { "layout": "capa", "titulo": "Seu cliente de auto já confia em você. *Use isso.*", "subtitulo": "4 seguros para oferecer na próxima conversa." },
+    { "layout": "lista", "titulo": "Quem tem carro, normalmente também tem:", "itens": [
+      { "titulo": "Casa ou apartamento", "texto": "Residencial, para quem é dono e para quem aluga." },
+      { "titulo": "Família que depende da renda", "texto": "Vida, com coberturas que vão além do falecimento." },
+      { "titulo": "Um negócio próprio", "texto": "Empresarial, para o ponto, o estoque e a operação." },
+      { "titulo": "Planos para o futuro", "texto": "Previdência, para começar cedo e com disciplina." } ] },
+    { "layout": "comparativo", "titulo": "Carteira de um produto × carteira completa", "esquerda": { "rotulo": "Só auto", "itens": ["Uma renovação por ano", "Cliente compara só preço", "Fácil de perder"] }, "direita": { "rotulo": "Vários ramos", "itens": ["Mais motivos para conversar", "Relação de consultoria", "Cliente mais fiel"] } },
+    { "layout": "cta", "titulo": "Um cadastro, *todos os ramos.*", "corpo": "Com a Gold, o corretor parceiro acessa as seguradoras parceiras em vida, auto, residencial, empresarial, saúde e previdência.", "botao": "Quero ser parceiro" }
+  ],
+  "legenda": "O cliente que já tem o seguro do carro com você é o caminho mais curto para ampliar a carteira. Residencial, vida, empresarial e previdência entram naturalmente na conversa de renovação.\n\nQual desses você mais vende hoje? Conta nos comentários.",
+  "hashtags": ["#corretordeseguros", "#vendas", "#crosssell", "#goldserviceseguros"],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "gold-brand",
+  "private": true,
+  "type": "module",
+  "description": "Design system e esteira de posts da Gold Service Seguros",
+  "scripts": {
+    "post": "node esteira/gerar.mjs",
+    "buscar": "node esteira/buscar.mjs",
+    "render": "node esteira/render.mjs",
+    "render:todos": "for f in posts/*.json; do node esteira/render.mjs \"$f\"; done"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "playwright": "1.56.1"
+  }
+}

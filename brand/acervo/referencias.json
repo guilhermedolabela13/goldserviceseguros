@@ -1,0 +1,556 @@
+{
+  "sobre": "Acervo de referências da esteira de posts. Cada referência descreve a ESTRUTURA de um post que funciona (não o visual: o visual vem sempre do design system Gold). Para adicionar uma referência, coloque a imagem em acervo/imagens/ e crie uma entrada aqui.",
+  "referencias": [
+    {
+      "id": "ref-infografico-percentuais",
+      "nome": "Infográfico de resultados em percentual",
+      "imagem": "acervo/imagens/ref-01.png",
+      "origem": "Pinterest do Guilherme (Vital Service)",
+      "formato": "post",
+      "objetivo": "provar resultado com números",
+      "palavras_chave": [
+        "benefícios",
+        "resultados",
+        "números",
+        "percentual",
+        "redução",
+        "aumento",
+        "economia",
+        "dados",
+        "pesquisa",
+        "estatística",
+        "indicadores"
+      ],
+      "o_que_funciona": "Um número grande por benefício, cada um com uma legenda curta. Lê-se em 3 segundos.",
+      "estrutura": [
+        {
+          "layout": "dado",
+          "papel": "Número principal com título que explica o benefício; 2 números de apoio em 'extras'; fonte obrigatória se o dado for externo."
+        }
+      ]
+    },
+    {
+      "id": "ref-produto-hero-auto",
+      "nome": "Produto em destaque com chamada direta",
+      "imagem": "acervo/imagens/ref-02.png",
+      "origem": "Pinterest do Guilherme (template seguro auto)",
+      "formato": "carrossel",
+      "objetivo": "apresentar um ramo/produto e gerar contato",
+      "palavras_chave": [
+        "seguro auto",
+        "carro",
+        "veículo",
+        "automóvel",
+        "moto",
+        "proteção",
+        "cotação",
+        "frota",
+        "roubo",
+        "colisão"
+      ],
+      "o_que_funciona": "Imagem do objeto segurado ocupando metade da peça, frase curta com uma palavra destacada, CTA claro.",
+      "estrutura": [
+        {
+          "layout": "capa",
+          "papel": "Frase de impacto sobre o objeto segurado, com imagem de fundo se houver."
+        },
+        {
+          "layout": "lista",
+          "papel": "3 a 4 situações ou coberturas que o corretor deve explicar ao cliente."
+        },
+        {
+          "layout": "cta",
+          "papel": "Chamada para falar com a Gold / virar parceiro."
+        }
+      ]
+    },
+    {
+      "id": "ref-celular-app",
+      "nome": "Celular na mão com cartão flutuante",
+      "imagem": "acervo/imagens/ref-03.png",
+      "origem": "Pinterest do Guilherme",
+      "formato": "post",
+      "objetivo": "mostrar agilidade e atendimento digital",
+      "palavras_chave": [
+        "atendimento",
+        "whatsapp",
+        "digital",
+        "aplicativo",
+        "app",
+        "online",
+        "rapidez",
+        "agilidade",
+        "resposta",
+        "suporte",
+        "tecnologia"
+      ],
+      "o_que_funciona": "Uma mensagem curta como se fosse notificação no celular. Mostra o serviço acontecendo.",
+      "estrutura": [
+        {
+          "layout": "dado",
+          "papel": "Tempo ou indicador do serviço (ex.: tempo de resposta) com título curto e 2 extras."
+        }
+      ]
+    },
+    {
+      "id": "ref-recursos-em-volta",
+      "nome": "Recursos ao redor do produto",
+      "imagem": "acervo/imagens/ref-04.png",
+      "origem": "Pinterest do Guilherme",
+      "formato": "carrossel",
+      "objetivo": "explicar o que um produto inclui",
+      "palavras_chave": [
+        "coberturas",
+        "assistências",
+        "assistência 24h",
+        "residencial",
+        "casa",
+        "apartamento",
+        "serviços",
+        "benefícios",
+        "o que inclui",
+        "chaveiro",
+        "encanador"
+      ],
+      "o_que_funciona": "Quatro recursos com ícone e duas linhas cada, orbitando o produto.",
+      "estrutura": [
+        {
+          "layout": "capa",
+          "papel": "Pergunta ou afirmação sobre o que o produto entrega além do básico."
+        },
+        {
+          "layout": "lista",
+          "papel": "4 recursos/coberturas, título curto + 1 linha. Lembrar que variam por seguradora."
+        },
+        {
+          "layout": "cta",
+          "papel": "Chamada para tirar dúvidas com a Gold."
+        }
+      ]
+    },
+    {
+      "id": "ref-manifesto-tech",
+      "nome": "Frase-manifesto com visual de produto",
+      "imagem": "acervo/imagens/ref-05.png",
+      "origem": "Pinterest do Guilherme (SwiftDev)",
+      "formato": "post",
+      "objetivo": "posicionamento de marca",
+      "palavras_chave": [
+        "futuro",
+        "inovação",
+        "simplicidade",
+        "plataforma",
+        "sem esforço",
+        "evolução",
+        "transformação",
+        "marca",
+        "posicionamento"
+      ],
+      "o_que_funciona": "Duas frases curtas no rodapé da peça, visual forte em cima, muito respiro.",
+      "estrutura": [
+        {
+          "layout": "capa",
+          "papel": "Duas frases curtas de posicionamento; a segunda em ênfase."
+        }
+      ]
+    },
+    {
+      "id": "ref-conceito-visual",
+      "nome": "Metáfora visual (anúncio conceitual)",
+      "imagem": "acervo/imagens/ref-06.png",
+      "origem": "Pinterest do Guilherme (AutoTrack)",
+      "formato": "post",
+      "objetivo": "campanha institucional memorável",
+      "palavras_chave": [
+        "campanha",
+        "conceito",
+        "institucional",
+        "metáfora",
+        "criativo",
+        "lembrança de marca",
+        "bolso",
+        "alcance"
+      ],
+      "o_que_funciona": "Uma ideia visual só, texto mínimo, assinatura discreta.",
+      "estrutura": [
+        {
+          "layout": "capa",
+          "papel": "Uma frase curta que fecha a metáfora; pede imagem conceitual em 'imagem'."
+        }
+      ]
+    },
+    {
+      "id": "ref-cards-produtos",
+      "nome": "Cards de produtos lado a lado",
+      "imagem": "acervo/imagens/ref-07.png",
+      "origem": "Pinterest do Guilherme",
+      "formato": "carrossel",
+      "objetivo": "mostrar a amplitude de ramos",
+      "palavras_chave": [
+        "ramos",
+        "produtos",
+        "tipos de seguro",
+        "portfólio",
+        "carteira",
+        "vida",
+        "residencial",
+        "saúde",
+        "empresarial",
+        "previdência",
+        "seguradoras parceiras"
+      ],
+      "o_que_funciona": "Um card por produto com imagem e 2 linhas. Sem preço (preço exige condições e data).",
+      "estrutura": [
+        {
+          "layout": "capa",
+          "papel": "Promessa de amplitude: muitos ramos, um só parceiro."
+        },
+        {
+          "layout": "lista",
+          "papel": "4 ramos com uma linha de para quem serve."
+        },
+        {
+          "layout": "cta",
+          "papel": "Chamada para ser parceiro."
+        }
+      ]
+    },
+    {
+      "id": "ref-planos-comparados",
+      "nome": "Planos comparados em cards",
+      "imagem": "acervo/imagens/ref-08.png",
+      "origem": "Pinterest do Guilherme",
+      "formato": "carrossel",
+      "objetivo": "comparar opções para ajudar a decidir",
+      "palavras_chave": [
+        "comparar",
+        "comparação",
+        "planos",
+        "opções",
+        "básico",
+        "completo",
+        "diferença",
+        "qual escolher",
+        "versus",
+        "antes e depois"
+      ],
+      "o_que_funciona": "Duas ou três colunas com a mesma régua de comparação; a recomendada em destaque.",
+      "estrutura": [
+        {
+          "layout": "capa",
+          "papel": "Pergunta de decisão (qual escolher?)."
+        },
+        {
+          "layout": "comparativo",
+          "papel": "Duas colunas com 3 itens cada; a direita é a opção recomendada."
+        },
+        {
+          "layout": "texto",
+          "papel": "Como orientar o cliente na escolha."
+        },
+        {
+          "layout": "cta",
+          "papel": "Chamada para falar com a Gold."
+        }
+      ]
+    },
+    {
+      "id": "ref-serie-campanha-auto",
+      "nome": "Série de campanha (vários posts, mesmo tema)",
+      "imagem": "acervo/imagens/ref-09.png",
+      "origem": "Pinterest do Guilherme",
+      "formato": "carrossel",
+      "objetivo": "campanha sazonal com várias peças",
+      "palavras_chave": [
+        "campanha",
+        "série",
+        "prevenção",
+        "férias",
+        "viagem",
+        "estrada",
+        "chuva",
+        "enchente",
+        "sazonal",
+        "fim de ano",
+        "carnaval",
+        "checklist",
+        "cuidados"
+      ],
+      "o_que_funciona": "Mesma estrutura visual repetida, cada peça com um ângulo do tema.",
+      "estrutura": [
+        {
+          "layout": "capa",
+          "papel": "Tema da campanha com um risco sazonal concreto."
+        },
+        {
+          "layout": "checklist",
+          "papel": "4 a 5 cuidados práticos que o corretor pode repassar ao cliente."
+        },
+        {
+          "layout": "texto",
+          "papel": "Como o seguro entra nessa situação (sem prometer cobertura)."
+        },
+        {
+          "layout": "cta",
+          "papel": "Chamada para o corretor usar o conteúdo com a carteira."
+        }
+      ]
+    },
+    {
+      "id": "ref-depoimento-card",
+      "nome": "Depoimento em card de vidro",
+      "imagem": "acervo/imagens/ref-10.png",
+      "origem": "Pinterest do Guilherme (Fingent)",
+      "formato": "post",
+      "objetivo": "prova social",
+      "palavras_chave": [
+        "depoimento",
+        "avaliação",
+        "cliente",
+        "parceiro",
+        "opinião",
+        "prova social",
+        "testemunho",
+        "o que dizem",
+        "manifesto",
+        "frase"
+      ],
+      "o_que_funciona": "Uma frase curta entre aspas, nome e cargo. Só com autorização escrita de quem fala.",
+      "estrutura": [
+        {
+          "layout": "citacao",
+          "papel": "Frase de até 20 palavras + autor + cargo/cidade. Depoimento real exige autorização (LGPD)."
+        }
+      ]
+    },
+    {
+      "id": "ref-lista-principios",
+      "nome": "Lista numerada em cards",
+      "imagem": "acervo/imagens/ref-11.png",
+      "origem": "Pinterest do Guilherme (opnr)",
+      "formato": "carrossel",
+      "objetivo": "educar em tópicos",
+      "palavras_chave": [
+        "dicas",
+        "passos",
+        "pontos",
+        "princípios",
+        "valores",
+        "regras",
+        "lei",
+        "mudanças",
+        "o que saber",
+        "erros",
+        "lista",
+        "tópicos",
+        "dica"
+      ],
+      "o_que_funciona": "Título forte e 3 cards numerados, cada um com título + uma linha.",
+      "estrutura": [
+        {
+          "layout": "capa",
+          "papel": "Promessa com número: 'N pontos/dicas/erros sobre X'."
+        },
+        {
+          "layout": "lista",
+          "papel": "3 ou 4 itens, título curto + 1 linha."
+        },
+        {
+          "layout": "texto",
+          "papel": "O que fazer na prática a partir disso."
+        },
+        {
+          "layout": "cta",
+          "papel": "Chamada para a Gold."
+        }
+      ]
+    },
+    {
+      "id": "ref-pergunta-provocativa",
+      "nome": "Pergunta provocativa (e se...?)",
+      "imagem": "acervo/imagens/ref-12.png",
+      "origem": "Pinterest do Guilherme (ideafoster)",
+      "formato": "carrossel",
+      "objetivo": "gancho para reflexão e comentários",
+      "palavras_chave": [
+        "e se",
+        "pergunta",
+        "reflexão",
+        "imagine",
+        "você já pensou",
+        "risco",
+        "imprevisto",
+        "provocação",
+        "tempo",
+        "produtividade"
+      ],
+      "o_que_funciona": "Uma pergunta em destaque que o leitor responde mentalmente; o resto do post responde.",
+      "estrutura": [
+        {
+          "layout": "capa",
+          "papel": "Pergunta 'E se...?' sobre um ganho ou um risco."
+        },
+        {
+          "layout": "texto",
+          "papel": "Resposta direta com um número ou fato."
+        },
+        {
+          "layout": "cta",
+          "papel": "Chamada para conversar."
+        }
+      ]
+    },
+    {
+      "id": "ref-mito-verdade",
+      "nome": "Mito ou verdade",
+      "imagem": null,
+      "origem": "Pesquisa de engajamento (formato educativo de alto salvamento)",
+      "formato": "carrossel",
+      "objetivo": "quebrar objeções",
+      "palavras_chave": [
+        "mito",
+        "verdade",
+        "objeção",
+        "crença",
+        "dúvida comum",
+        "mentira",
+        "fake",
+        "engano",
+        "acham que"
+      ],
+      "o_que_funciona": "Uma crença por slide, veredito claro e explicação de 2 linhas.",
+      "estrutura": [
+        {
+          "layout": "capa",
+          "papel": "'N mitos que seu cliente ainda acredita'."
+        },
+        {
+          "layout": "mito",
+          "papel": "Mito 1."
+        },
+        {
+          "layout": "mito",
+          "papel": "Mito 2."
+        },
+        {
+          "layout": "mito",
+          "papel": "Mito 3 (pode ser Verdade para variar)."
+        },
+        {
+          "layout": "cta",
+          "papel": "Chamada para suporte técnico da Gold."
+        }
+      ]
+    },
+    {
+      "id": "ref-passo-a-passo",
+      "nome": "Passo a passo",
+      "imagem": null,
+      "origem": "Pesquisa de engajamento (sinistro explicado, processos)",
+      "formato": "carrossel",
+      "objetivo": "explicar um processo",
+      "palavras_chave": [
+        "como",
+        "passo a passo",
+        "processo",
+        "sinistro",
+        "acionar",
+        "cadastro",
+        "como funciona",
+        "etapas",
+        "abrir",
+        "procedimento",
+        "vistoria"
+      ],
+      "o_que_funciona": "3 ou 4 etapas numeradas, um verbo no início de cada uma.",
+      "estrutura": [
+        {
+          "layout": "capa",
+          "papel": "Resultado que o processo entrega."
+        },
+        {
+          "layout": "passos",
+          "papel": "3 a 4 etapas."
+        },
+        {
+          "layout": "checklist",
+          "papel": "O que ter em mãos / documentos."
+        },
+        {
+          "layout": "cta",
+          "papel": "Chamada para a Gold ajudar."
+        }
+      ]
+    },
+    {
+      "id": "ref-calendario-acao",
+      "nome": "Calendário de ação (janelas de tempo)",
+      "imagem": null,
+      "origem": "Conteúdo do blog Gold (renovação 30/90 dias)",
+      "formato": "carrossel",
+      "objetivo": "rotina comercial do corretor",
+      "palavras_chave": [
+        "renovação",
+        "vencimento",
+        "prazo",
+        "calendário",
+        "dias",
+        "rotina",
+        "agenda",
+        "planejamento",
+        "carteira",
+        "retenção"
+      ],
+      "o_que_funciona": "Janelas de tempo com uma ação em cada; termina com checklist aplicável.",
+      "estrutura": [
+        {
+          "layout": "capa",
+          "papel": "Afirmação que muda o momento de agir."
+        },
+        {
+          "layout": "passos",
+          "papel": "Janelas de tempo com a ação de cada uma."
+        },
+        {
+          "layout": "texto",
+          "papel": "Por que isso protege a carteira."
+        },
+        {
+          "layout": "checklist",
+          "papel": "Perguntas ou tarefas da primeira janela."
+        },
+        {
+          "layout": "cta",
+          "papel": "Chamada para a Gold."
+        }
+      ]
+    },
+    {
+      "id": "ref-dado-destaque",
+      "nome": "Número institucional",
+      "imagem": null,
+      "origem": "Site Gold (500+ corretores, 20 min, 17 anos)",
+      "formato": "post",
+      "objetivo": "autoridade institucional",
+      "palavras_chave": [
+        "gold",
+        "corretores parceiros",
+        "anos",
+        "história",
+        "rede",
+        "tamanho",
+        "institucional",
+        "números da gold",
+        "aniversário",
+        "numero"
+      ],
+      "o_que_funciona": "Um número dominante, uma frase e dois números de apoio.",
+      "estrutura": [
+        {
+          "layout": "dado",
+          "papel": "Número + frase + 2 extras."
+        }
+      ]
+    }
+  ]
+}

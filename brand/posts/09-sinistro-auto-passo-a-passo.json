@@ -1,0 +1,59 @@
+{
+  "id": "09-sinistro-auto-passo-a-passo",
+  "titulo": "Sinistro de auto em 3 passos",
+  "pilar": "Técnico sem juridiquês",
+  "slides": [
+    {
+      "layout": "capa",
+      "titulo": "Sinistro de auto: o cliente liga para você *primeiro.*",
+      "subtitulo": "Como orientar em 3 passos."
+    },
+    {
+      "layout": "passos",
+      "titulo": "O que dizer ao cliente.",
+      "passos": [
+        {
+          "titulo": "Garantir a segurança",
+          "texto": "Sinalizar o local, chamar socorro se houver feridos e registrar boletim de ocorrência quando necessário."
+        },
+        {
+          "titulo": "Comunicar a seguradora",
+          "texto": "Avisar o quanto antes, pelos canais oficiais, com o número da apólice em mãos."
+        },
+        {
+          "titulo": "Acompanhar a regulação",
+          "texto": "Vistoria, orçamento e documentos: o corretor acompanha cada etapa."
+        }
+      ]
+    },
+    {
+      "layout": "checklist",
+      "titulo": "Peça para o cliente separar:",
+      "itens": [
+        "CNH e documento do veículo",
+        "Boletim de ocorrência, quando aplicável",
+        "Fotos do local e dos danos",
+        "Dados do terceiro envolvido",
+        "Número da apólice"
+      ]
+    },
+    {
+      "layout": "cta",
+      "titulo": "Sinistro travado? *A Gold acompanha com você.*",
+      "corpo": "Suporte da equipe Gold junto às seguradoras parceiras.",
+      "botao": "Fale com a Gold"
+    }
+  ],
+  "legenda": "Na hora do sinistro, o primeiro telefonema do cliente costuma ser para o corretor. Ter um roteiro claro faz toda a diferença: segurança primeiro, aviso à seguradora e acompanhamento até o fim.\n\nSalve este passo a passo e envie para um colega corretor.\nProcedimentos e documentos podem variar conforme a seguradora.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#sinistro",
+    "#seguroauto",
+    "#goldserviceseguros"
+  ],
+  "formato": "carrossel",
+  "referencia": "ref-passo-a-passo",
+  "assunto": "como acionar o sinistro do carro",
+  "origem_texto": "Claude (escrito na conversa, via esqueleto da esteira)",
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

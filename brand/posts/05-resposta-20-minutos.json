@@ -1,0 +1,13 @@
+{
+  "id": "05-resposta-20-minutos",
+  "titulo": "Resposta em até 20 minutos",
+  "pilar": "Gente Gold",
+  "formato": "post",
+  "referencia": "ref-dado-destaque",
+  "slides": [
+    { "layout": "dado", "numero": "20", "unidade": "min", "titulo": "Tempo de resposta para o corretor parceiro.", "corpo": "Em horário comercial. Atendimento por *pessoa*, não por protocolo.", "extras": [ { "numero": "9h–18h", "rotulo": "segunda a sexta" }, { "numero": "1", "rotulo": "cadastro, várias seguradoras" } ] }
+  ],
+  "legenda": "Corretor não pode esperar fila. Na Gold, o parceiro fala com alguém que conhece a carteira dele, com resposta em até 20 minutos no horário comercial.\n\nQuer operar assim? Link na bio.",
+  "hashtags": ["#corretordeseguros", "#assessoriadeseguros", "#goldserviceseguros"],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

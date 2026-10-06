@@ -1,0 +1,19 @@
+{
+  "id": "02-nova-lei-do-seguro",
+  "titulo": "Nova Lei do Seguro: 3 pontos para o corretor",
+  "pilar": "Mercado & regras",
+  "formato": "carrossel",
+  "referencia": "ref-lista-principios",
+  "slides": [
+    { "layout": "capa", "titulo": "Nova Lei do Seguro: *3 pontos* que mudam a rotina do corretor.", "subtitulo": "Lei 15.040/2024, em vigor desde dezembro de 2025." },
+    { "layout": "lista", "titulo": "O que a lei diz:", "itens": [
+      { "titulo": "Documentos em até 5 dias úteis", "texto": "O corretor deve entregar ao destinatário os documentos que receber para encaminhar (art. 39)." },
+      { "titulo": "Exclusões em destaque", "texto": "Restrições e exclusões precisam estar escritas com clareza e destacadas (art. 48)." },
+      { "titulo": "Dúvida favorece o segurado", "texto": "Cláusula ambígua nos documentos da seguradora é interpretada a favor do segurado (art. 57)." } ] },
+    { "layout": "texto", "titulo": "Na prática: *registre tudo.*", "corpo": "Protocolo de envio, data de entrega e versão das condições gerais. Organização virou proteção para a corretora.", "nota": "Conteúdo informativo. Consulte o texto integral da Lei 15.040/2024." },
+    { "layout": "cta", "titulo": "Dúvida técnica? *A Gold responde.*", "corpo": "Corretor parceiro fala com gente, em até 20 minutos no horário comercial.", "botao": "Seja parceiro" }
+  ],
+  "legenda": "A Lei 15.040/2024, o novo marco dos contratos de seguro, está em vigor desde dezembro de 2025. Separamos três pontos que mexem direto com a rotina da corretora: prazo de entrega de documentos, exclusões em destaque e interpretação a favor do segurado.\n\nSalve para consultar e envie para o seu time.",
+  "hashtags": ["#corretordeseguros", "#leidoseguro", "#mercadosegurador", "#goldserviceseguros"],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62 · Conteúdo informativo, não substitui orientação jurídica."
+}

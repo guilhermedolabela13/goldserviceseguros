@@ -1,0 +1,60 @@
+/* Gold Service Seguros — design tokens (v1)
+   Fonte única para site, posts e materiais. Espelho em tokens.json. */
+
+@font-face { font-family: "Fraunces"; src: url("../fonts/Fraunces.woff2") format("woff2"); font-weight: 300 700; font-style: normal; }
+@font-face { font-family: "Fraunces"; src: url("../fonts/Fraunces-Italic.woff2") format("woff2"); font-weight: 300 700; font-style: italic; }
+@font-face { font-family: "Inter"; src: url("../fonts/Inter.woff2") format("woff2"); font-weight: 300 800; font-style: normal; }
+
+:root {
+  /* ── Cor: navy (60%) ── */
+  --navy-950: #030E1C;
+  --navy-900: #061C37;   /* cor-âncora da marca */
+  --navy-800: #0A2A4A;
+  --navy-700: #12395F;
+  --navy-500: #3B5A7E;
+  --navy-300: #8EA2BB;
+  --navy-100: #DCE3EC;
+
+  /* ── Cor: dourado (10%, só acento) ── */
+  --gold-900: #8C6A28;   /* dourado para texto sobre claro (AA em marfim) */
+  --gold-700: #B58F3E;
+  --gold-500: #D7B05A;
+  --gold-300: #E7C16C;
+  --gold-100: #F8D077;   /* dourado para texto sobre navy */
+  --gold-metal: linear-gradient(90deg, #C9A04A 0%, #F9E79A 22%, #E4BC6A 45%, #FBD77E 72%, #B08A3C 100%);
+
+  /* ── Cor: neutros quentes (30%) ── */
+  --ivory: #FAF6E8;
+  --paper: #F7F4ED;
+  --sand: #EDE4CC;
+  --white: #FFFFFF;
+  --slate: #5A6573;
+  --line-dark: rgba(248, 208, 119, 0.28);  /* fio dourado sobre navy */
+  --line-light: rgba(6, 28, 55, 0.14);     /* fio navy sobre marfim */
+
+  /* ── Tipografia ── */
+  --font-display: "Fraunces", "Georgia", serif;   /* títulos, números, citações */
+  --font-text: "Inter", "Helvetica Neue", Arial, sans-serif;  /* texto, rótulos, UI */
+  --tracking-eyebrow: 0.24em;   /* eco do wordmark GOLD espaçado */
+  --tracking-display: -0.02em;
+
+  /* Escala para peças 1080 px de largura (posts) */
+  --post-display-xl: 120px;
+  --post-display-l: 92px;
+  --post-display-m: 68px;
+  --post-display-s: 52px;
+  --post-body-l: 38px;
+  --post-body: 32px;
+  --post-caption: 24px;
+  --post-eyebrow: 22px;
+
+  /* ── Espaço (base 8) ── */
+  --space-1: 8px;  --space-2: 16px; --space-3: 24px; --space-4: 32px;
+  --space-6: 48px; --space-8: 64px; --space-11: 88px; --space-12: 96px;
+
+  /* ── Forma: o corte a 45° do monograma ── */
+  --chamfer-s: 24px;
+  --chamfer-m: 48px;
+  --chamfer-l: 96px;
+  --hairline: 2px;
+}

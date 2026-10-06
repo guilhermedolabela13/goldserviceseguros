@@ -1,0 +1,13 @@
+{
+  "id": "07-manifesto",
+  "titulo": "Manifesto Gold",
+  "pilar": "Quem somos",
+  "formato": "post",
+  "referencia": "ref-depoimento-card",
+  "slides": [
+    { "layout": "citacao", "texto": "Cuidamos do que ninguém cuida: tirar do caminho do corretor *tudo o que não é venda.*", "autor": "Gold Service Seguros", "cargo": "Assessoria de seguros desde 2009" }
+  ],
+  "legenda": "Operação, relacionamento e suporte ficam com a gente. Ao corretor parceiro, sobra o que importa: vender.\n\n17 anos fazendo isso em Belo Horizonte.",
+  "hashtags": ["#corretordeseguros", "#assessoriadeseguros", "#goldserviceseguros"],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

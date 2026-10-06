@@ -1,0 +1,13 @@
+{
+  "id": "08-numeros-gold",
+  "titulo": "500+ corretores parceiros",
+  "pilar": "Parceria Gold",
+  "formato": "post",
+  "referencia": "ref-dado-destaque",
+  "slides": [
+    { "layout": "dado", "numero": "500+", "titulo": "corretores parceiros crescem com a *estrutura da Gold.*", "extras": [ { "numero": "17 anos", "rotulo": "de mercado" }, { "numero": "Até 20 min", "rotulo": "de resposta" } ] }
+  ],
+  "legenda": "Mais de 500 corretores parceiros, 17 anos de mercado e resposta em até 20 minutos. Esse é o tamanho da rede que você encontra na Gold.\n\nSeja parceiro: link na bio.",
+  "hashtags": ["#corretordeseguros", "#assessoriadeseguros", "#goldserviceseguros"],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}
