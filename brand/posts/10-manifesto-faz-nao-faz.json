@@ -1,0 +1,60 @@
+{
+  "id": "10-manifesto-faz-nao-faz",
+  "titulo": "O que a Gold faz e o que não faz",
+  "pilar": "Quem somos",
+  "formato": "carrossel",
+  "referencia": "ref-lista-principios",
+  "slides": [
+    {
+      "layout": "capa",
+      "titulo": "Seguro não é produto. É *decisão patrimonial.*",
+      "subtitulo": "O que uma assessoria faz pelo corretor, e o que ela não faz."
+    },
+    {
+      "layout": "comparativo",
+      "titulo": "Clareza desde o primeiro contato.",
+      "esquerda": {
+        "rotulo": "A Gold faz",
+        "itens": [
+          "Conecta você às seguradoras parceiras com um cadastro só",
+          "Responde em até 20 minutos no horário comercial",
+          "Acompanha cotação, emissão e sinistro com você"
+        ]
+      },
+      "direita": {
+        "rotulo": "A Gold não faz",
+        "itens": [
+          "Não fala com o seu cliente no seu lugar",
+          "Não promete aprovação nem indenização",
+          "Não troca atendimento por protocolo"
+        ]
+      }
+    },
+    {
+      "layout": "texto",
+      "numero": "01",
+      "titulo": "O cliente é *seu.*",
+      "corpo": "A carteira, o relacionamento e a decisão continuam com o corretor. A Gold trabalha nos bastidores."
+    },
+    {
+      "layout": "texto",
+      "numero": "02",
+      "titulo": "Decisão patrimonial pede *tempo e critério.*",
+      "corpo": "Por isso a conversa começa pelo risco do cliente, e não pelo preço da apólice."
+    },
+    {
+      "layout": "cta",
+      "titulo": "Quer uma assessoria *do seu lado?*",
+      "corpo": "Desde 2009 apoiando corretores de todo o Brasil.",
+      "botao": "Fale com a Gold"
+    }
+  ],
+  "legenda": "Seguro não é produto de prateleira. É uma decisão sobre o patrimônio de alguém, e o corretor é quem conduz essa conversa.\n\nO papel da Gold é tirar do seu caminho o que não é venda: operação, cotação e acompanhamento. O cliente continua sendo seu.\n\nMande para um colega que ainda faz tudo sozinho.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#assessoriadeseguros",
+    "#mercadosegurador",
+    "#goldserviceseguros"
+  ],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

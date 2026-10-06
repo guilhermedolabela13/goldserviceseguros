@@ -1,0 +1,24 @@
+{
+  "id": "18-mande-sua-cotacao",
+  "titulo": "CTA: mande sua próxima cotação",
+  "pilar": "Parceria Gold",
+  "formato": "post",
+  "referencia": "ref-produto-hero-auto",
+  "slides": [
+    {
+      "layout": "cta",
+      "titulo": "Mande sua próxima cotação *para a Gold.*",
+      "corpo": "Uma pessoa responde em até 20 minutos, de segunda a sexta, das 9h às 18h.",
+      "botao": "Fale com a Gold",
+      "imagem": "assets/fotos/parceria.jpg"
+    }
+  ],
+  "legenda": "Tem uma cotação parada aí? Mande para a Gold. Uma pessoa da equipe responde em até 20 minutos no horário comercial e compara seguradoras parceiras com o seu cadastro único.\n\nChame no direct ou no WhatsApp do link da bio.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#cotacao",
+    "#assessoriadeseguros",
+    "#goldserviceseguros"
+  ],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

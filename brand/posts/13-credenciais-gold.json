@@ -1,0 +1,37 @@
+{
+  "id": "13-credenciais-gold",
+  "titulo": "Credenciais da Gold",
+  "pilar": "Quem somos",
+  "formato": "post",
+  "referencia": "ref-dado-destaque",
+  "slides": [
+    {
+      "layout": "dado",
+      "numero": "17",
+      "unidade": "anos",
+      "titulo": "de assessoria a corretores, *desde 2009.*",
+      "corpo": "Gold Service Seguros · Belo Horizonte, MG · CNPJ 10.875.768/0001-62",
+      "extras": [
+        {
+          "numero": "500+",
+          "rotulo": "corretores parceiros"
+        },
+        {
+          "numero": "20 min",
+          "rotulo": "tempo de resposta"
+        },
+        {
+          "numero": "7 dias",
+          "rotulo": "para aprovar o cadastro"
+        }
+      ]
+    }
+  ],
+  "legenda": "Antes de fechar parceria, confira com quem você está falando. Gold Service Seguros, assessoria de seguros em Belo Horizonte desde 2009, CNPJ 10.875.768/0001-62.\n\nMais de 500 corretores parceiros, resposta em até 20 minutos no horário comercial (seg–sex, 9h–18h) e cadastro aprovado em até 7 dias úteis.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#assessoriadeseguros",
+    "#goldserviceseguros"
+  ],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

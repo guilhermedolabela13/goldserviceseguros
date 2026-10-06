@@ -1,0 +1,64 @@
+{
+  "id": "14-por-que-auto-encarece",
+  "titulo": "Por que o seguro auto encarece",
+  "pilar": "Mercado & regras",
+  "formato": "carrossel",
+  "referencia": "ref-infografico-percentuais",
+  "slides": [
+    {
+      "layout": "capa",
+      "titulo": "O cliente perguntou por que o seguro *ficou mais caro.*",
+      "subtitulo": "Uma explicação honesta para levar na renovação.",
+      "imagem": "assets/fotos/carro.jpg"
+    },
+    {
+      "layout": "lista",
+      "titulo": "O que pesa no preço:",
+      "itens": [
+        {
+          "titulo": "Custo de reparo",
+          "texto": "Peças, mão de obra e tecnologia embarcada."
+        },
+        {
+          "titulo": "Roubo e furto na região",
+          "texto": "O CEP de pernoite muda o risco."
+        },
+        {
+          "titulo": "Frequência de sinistros",
+          "texto": "Do modelo, da região e do próprio perfil."
+        }
+      ]
+    },
+    {
+      "layout": "texto",
+      "numero": "01",
+      "titulo": "Transparência *segura o cliente.*",
+      "corpo": "Quem entende o motivo do reajuste compara com critério e não troca só pelo menor preço."
+    },
+    {
+      "layout": "checklist",
+      "titulo": "Antes de renovar, revise com o cliente:",
+      "itens": [
+        "Condutor principal e idade",
+        "CEP de pernoite e garagem",
+        "Uso do veículo",
+        "Franquia e coberturas adicionais",
+        "Cotação em mais de uma seguradora"
+      ]
+    },
+    {
+      "layout": "cta",
+      "titulo": "A Gold cota *em várias seguradoras* para você.",
+      "corpo": "Com um cadastro só.",
+      "botao": "Fale com a Gold"
+    }
+  ],
+  "legenda": "Reajuste explicado é cliente mantido. Custo de reparo, roubo e furto na região e frequência de sinistros pesam no preço do seguro auto, e o perfil do cliente faz o resto.\n\nUse o checklist na próxima renovação e mande para um colega.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#seguroauto",
+    "#renovacao",
+    "#goldserviceseguros"
+  ],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

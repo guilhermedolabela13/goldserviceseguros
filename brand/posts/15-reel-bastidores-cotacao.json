@@ -1,0 +1,51 @@
+{
+  "id": "15-reel-bastidores-cotacao",
+  "titulo": "Reel: bastidores de uma cotação",
+  "pilar": "Gente Gold",
+  "formato": "reel",
+  "formato_peca": "story",
+  "referencia": "ref-passo-a-passo",
+  "slides": [
+    {
+      "layout": "capa",
+      "titulo": "O que acontece depois que você *manda a cotação?*",
+      "subtitulo": "Bastidores da Gold.",
+      "imagem": "assets/fotos/celular.jpg"
+    },
+    {
+      "layout": "passos",
+      "titulo": "Do pedido à proposta.",
+      "passos": [
+        {
+          "titulo": "Pessoa, não protocolo",
+          "texto": "Alguém da equipe pega o seu pedido e responde em até 20 minutos."
+        },
+        {
+          "titulo": "Leitura do risco",
+          "texto": "Conferimos o perfil e o que falta antes de cotar."
+        },
+        {
+          "titulo": "Cotação nas parceiras",
+          "texto": "Comparamos seguradoras com o seu cadastro único."
+        },
+        {
+          "titulo": "Proposta na sua mão",
+          "texto": "Você apresenta ao cliente. A venda é sua."
+        }
+      ]
+    },
+    {
+      "layout": "cta",
+      "titulo": "Teste com a *sua próxima cotação.*",
+      "botao": "Fale com a Gold"
+    }
+  ],
+  "legenda": "ROTEIRO DO REEL (30–40 s, legendas na tela)\n\n0–3 s · Gancho: tela do celular recebendo o pedido. \"O que acontece depois que você manda a cotação?\"\n3–28 s · Equipe real em ação, um corte por passo (atender, ler o risco, cotar, enviar).\n28–35 s · CTA: \"Teste com a sua próxima cotação.\"\n\nConfira os passos com a equipe antes de gravar.\n\nLEGENDA DO POST\nPedido recebido, risco lido, seguradoras comparadas e proposta na sua mão. Atendimento por pessoa, resposta em até 20 minutos no horário comercial.\n\nComente \"cotação\" que a gente chama você.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#bastidores",
+    "#assessoriadeseguros",
+    "#goldserviceseguros"
+  ],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

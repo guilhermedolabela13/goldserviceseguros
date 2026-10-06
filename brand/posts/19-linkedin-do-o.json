@@ -1,0 +1,80 @@
+{
+  "id": "19-linkedin-do-o",
+  "titulo": "LinkedIn: D&O para corretores",
+  "pilar": "Técnico sem juridiquês",
+  "formato": "documento LinkedIn",
+  "referencia": "ref-cards-produtos",
+  "slides": [
+    {
+      "layout": "capa",
+      "titulo": "D&O: o que o corretor *precisa saber* para oferecer.",
+      "subtitulo": "Seguro de responsabilidade civil de administradores."
+    },
+    {
+      "layout": "texto",
+      "numero": "01",
+      "titulo": "O que é *D&O.*",
+      "corpo": "Protege o patrimônio pessoal de diretores e administradores contra reclamações por atos de gestão."
+    },
+    {
+      "layout": "lista",
+      "titulo": "Costuma cobrir:",
+      "itens": [
+        {
+          "titulo": "Custos de defesa",
+          "texto": "Honorários e despesas do processo."
+        },
+        {
+          "titulo": "Indenizações e acordos",
+          "texto": "Dentro dos limites contratados."
+        },
+        {
+          "titulo": "Bloqueio de bens",
+          "texto": "Em alguns produtos, custos ligados a medidas judiciais."
+        }
+      ]
+    },
+    {
+      "layout": "lista",
+      "titulo": "Não cobre:",
+      "itens": [
+        {
+          "titulo": "Atos dolosos e fraude",
+          "texto": "Má-fé comprovada fica de fora."
+        },
+        {
+          "titulo": "Fatos já conhecidos",
+          "texto": "Problemas anteriores à contratação."
+        },
+        {
+          "titulo": "Multas de natureza penal",
+          "texto": "Conforme as condições do produto."
+        }
+      ]
+    },
+    {
+      "layout": "checklist",
+      "titulo": "Bons alvos para a conversa:",
+      "itens": [
+        "Empresas com conselho ou sócios-administradores",
+        "Empresas em fase de captação ou venda",
+        "Negócios regulados ou com muitos fornecedores",
+        "Clientes do seu empresarial que nunca ouviram falar de D&O"
+      ]
+    },
+    {
+      "layout": "cta",
+      "titulo": "Quer montar *sua primeira proposta de D&O?*",
+      "corpo": "Coberturas variam por seguradora. A Gold cota com você.",
+      "botao": "Fale com a Gold"
+    }
+  ],
+  "legenda": "D&O ainda é pouco oferecido e muito necessário. Ele protege o patrimônio pessoal de quem administra uma empresa contra reclamações por atos de gestão.\n\nSe você já atende o empresarial de um cliente, a conversa sobre D&O é o próximo passo natural. Baixe o documento e salve para consultar.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#DeO",
+    "#seguroempresarial",
+    "#goldserviceseguros"
+  ],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

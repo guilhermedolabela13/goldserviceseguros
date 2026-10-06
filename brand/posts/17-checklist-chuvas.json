@@ -1,0 +1,46 @@
+{
+  "id": "17-checklist-chuvas",
+  "titulo": "Checklist da temporada de chuvas",
+  "pilar": "Inteligência comercial",
+  "formato": "carrossel",
+  "referencia": "ref-calendario-acao",
+  "slides": [
+    {
+      "layout": "capa",
+      "titulo": "Temporada de chuvas: *ligue antes do temporal.*",
+      "subtitulo": "Um motivo concreto para falar com toda a carteira.",
+      "imagem": "assets/fotos/agenda.jpg"
+    },
+    {
+      "layout": "checklist",
+      "titulo": "Revise com cada cliente:",
+      "itens": [
+        "Alagamento no seguro auto",
+        "Vendaval e granizo no residencial",
+        "Danos elétricos em casa e na empresa",
+        "Lucros cessantes no empresarial",
+        "Contatos de assistência 24 h à mão"
+      ]
+    },
+    {
+      "layout": "texto",
+      "numero": "01",
+      "titulo": "Contato útil *não é venda forçada.*",
+      "corpo": "Cliente avisado antes da chuva lembra de quem cuidou dele. E abre espaço para uma cobertura adicional."
+    },
+    {
+      "layout": "cta",
+      "titulo": "Quer as cotações *antes da chuva?*",
+      "corpo": "Coberturas variam por produto e seguradora. A Gold compara para você.",
+      "botao": "Fale com a Gold"
+    }
+  ],
+  "legenda": "Outubro abre a temporada de chuvas em boa parte do país. É o momento certo para revisar alagamento, vendaval, danos elétricos e lucros cessantes com a carteira, antes do primeiro temporal.\n\nSalve o checklist e mande para um colega corretor.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#chuvas",
+    "#seguroresidencial",
+    "#goldserviceseguros"
+  ],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

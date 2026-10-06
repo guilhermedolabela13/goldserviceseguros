@@ -1,0 +1,54 @@
+{
+  "id": "11-reel-sinistro-negado",
+  "titulo": "Reel: por que um sinistro é negado",
+  "pilar": "Técnico sem juridiquês",
+  "formato": "reel",
+  "formato_peca": "story",
+  "referencia": "ref-pergunta-provocativa",
+  "slides": [
+    {
+      "layout": "capa",
+      "titulo": "Por que *a apólice não pagou?*",
+      "subtitulo": "4 motivos que o corretor pode evitar antes de vender.",
+      "imagem": "assets/fotos/carro.jpg"
+    },
+    {
+      "layout": "texto",
+      "numero": "01",
+      "titulo": "Informação *diferente* da realidade.",
+      "corpo": "Condutor principal, CEP de pernoite ou uso do veículo informados de outro jeito no questionário de risco."
+    },
+    {
+      "layout": "texto",
+      "numero": "02",
+      "titulo": "Cobertura que *não foi contratada.*",
+      "corpo": "O cliente achava que tinha. Ninguém mostrou o que estava e o que não estava na apólice."
+    },
+    {
+      "layout": "texto",
+      "numero": "03",
+      "titulo": "Parcela *em atraso.*",
+      "corpo": "Inadimplência pode suspender ou cancelar a cobertura, conforme as condições do contrato."
+    },
+    {
+      "layout": "texto",
+      "numero": "04",
+      "titulo": "Risco *agravado* sem aviso.",
+      "corpo": "Mudanças relevantes durante a vigência precisam ser comunicadas à seguradora."
+    },
+    {
+      "layout": "cta",
+      "titulo": "Venda bem feita *evita negativa.*",
+      "corpo": "A Gold revisa o perfil com você antes da proposta.",
+      "botao": "Fale com a Gold"
+    }
+  ],
+  "legenda": "ROTEIRO DO REEL (30–40 s, legendas na tela)\n\n0–3 s · Gancho, fundador na câmera: \"O dia em que uma apólice não pagou. E por quê.\"\n3–10 s · Contexto: conte um caso real e anonimizado da Gold (sem nome de cliente nem de seguradora).\n10–30 s · Os 4 motivos das telas 01 a 04, um por corte.\n30–35 s · CTA: \"Antes de fechar, revise o perfil com a Gold.\"\n\nLEGENDA DO POST\nQuase toda negativa de sinistro começa na venda. Informação divergente, cobertura que o cliente achava que tinha, parcela atrasada ou risco que mudou sem aviso.\n\nSalve e use como checklist antes da próxima proposta.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#sinistro",
+    "#seguroauto",
+    "#goldserviceseguros"
+  ],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

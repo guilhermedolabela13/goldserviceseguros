@@ -42,7 +42,6 @@ const PROIBIDAS = [
   [/mais barat[oa]/i, 'comparação de preço não comprovável'],
   [/R\$\s?\d/i, 'preço citado: exige condições, data e perfil'],
   [/\b(porto|allianz|bradesco|sulam[eé]rica|tokio|mapfre|hdi|liberty|zurich|azul seguros|suhai|youse)\b/i, 'marca de seguradora: precisa de autorização escrita'],
-  [/\[[^\]]+\]/, 'campo ainda não preenchido'],
 ];
 
 export function verificar(spec) {
@@ -52,7 +51,9 @@ export function verificar(spec) {
     const m = texto.match(re);
     if (m) avisos.push(`${motivo} → "${m[0]}"`);
   }
-  if (/lei|art\.|artigo|susep|circular/i.test(texto)) avisos.push('cita norma ou lei: confira o texto original antes de publicar');
+  const campos = JSON.stringify(spec.slides).match(/"[^"]*\[[^\]"]+\][^"]*"/);
+  if (campos || /\[[^\]]+\]/.test(spec.legenda ?? '')) avisos.push(`campo ainda não preenchido → ${campos ? campos[0] : 'na legenda'}`);
+  if (/\blei\b|\bart\.|\bartigo|\bsusep\b|\bcircular\b/i.test(texto)) avisos.push('cita norma ou lei: confira o texto original antes de publicar');
   if (spec.slides.some((s) => s.layout === 'citacao') && !/gold/i.test(JSON.stringify(spec.slides.filter((s) => s.layout === 'citacao'))))
     avisos.push('depoimento de terceiro: só publique com autorização escrita (LGPD)');
   if (spec.slides.some((s) => s.layout === 'dado' && s.numero && !s.fonte) && !/gold/i.test(texto))

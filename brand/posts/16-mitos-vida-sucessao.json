@@ -1,0 +1,46 @@
+{
+  "id": "16-mitos-vida-sucessao",
+  "titulo": "Mitos do seguro de vida e sucessão",
+  "pilar": "Técnico sem juridiquês",
+  "formato": "carrossel",
+  "referencia": "ref-mito-verdade",
+  "slides": [
+    {
+      "layout": "capa",
+      "titulo": "Seguro de vida *e herança:* 3 mitos que travam a venda.",
+      "subtitulo": "Argumentos para o cliente de alta renda."
+    },
+    {
+      "layout": "mito",
+      "veredito": "Mito",
+      "afirmacao": "O seguro de vida entra no inventário.",
+      "explicacao": "Mito. Por lei, o capital segurado não é considerado herança. É pago direto ao beneficiário."
+    },
+    {
+      "layout": "mito",
+      "veredito": "Mito",
+      "afirmacao": "O beneficiário precisa ser herdeiro.",
+      "explicacao": "Mito. Em regra, o segurado escolhe livremente quem indicar. Vale revisar a indicação a cada mudança na família."
+    },
+    {
+      "layout": "mito",
+      "veredito": "Mito",
+      "afirmacao": "Quem tem patrimônio não precisa de seguro de vida.",
+      "explicacao": "Mito. O seguro dá liquidez para custos de inventário e despesas da família enquanto os bens não são partilhados."
+    },
+    {
+      "layout": "cta",
+      "titulo": "Planejamento sucessório é *uma conversa de corretor.*",
+      "corpo": "A Gold ajuda você a montar a proposta.",
+      "botao": "Fale com a Gold"
+    }
+  ],
+  "legenda": "Seguro de vida é uma das ferramentas mais simples de planejamento sucessório, e muita gente ainda acha que ele entra no inventário. Não entra: o capital vai direto ao beneficiário.\n\nSalve para usar na próxima conversa com cliente de alta renda.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#segurodevida",
+    "#sucessao",
+    "#goldserviceseguros"
+  ],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

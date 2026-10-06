@@ -1,0 +1,66 @@
+{
+  "id": "12-exclusoes-residencial",
+  "titulo": "5 exclusões do seguro residencial",
+  "pilar": "Técnico sem juridiquês",
+  "formato": "carrossel",
+  "referencia": "ref-cards-produtos",
+  "slides": [
+    {
+      "layout": "capa",
+      "titulo": "5 exclusões que *quase ninguém lê* no seguro residencial.",
+      "subtitulo": "Mostre ao cliente antes do sinistro, não depois.",
+      "imagem": "assets/fotos/casa.jpg"
+    },
+    {
+      "layout": "lista",
+      "titulo": "Costumam ficar de fora:",
+      "itens": [
+        {
+          "titulo": "Desgaste e falta de manutenção",
+          "texto": "Telhado velho, cano corroído, fiação antiga."
+        },
+        {
+          "titulo": "Infiltração gradual",
+          "texto": "Umidade que vem aos poucos, sem um evento súbito."
+        },
+        {
+          "titulo": "Objetos de valor não declarados",
+          "texto": "Joias, obras e equipamentos caros podem ter limite próprio."
+        }
+      ]
+    },
+    {
+      "layout": "lista",
+      "titulo": "E também:",
+      "itens": [
+        {
+          "titulo": "Alagamento sem cobertura adicional",
+          "texto": "Muitas vezes é contratado à parte."
+        },
+        {
+          "titulo": "Danos intencionais",
+          "texto": "Atos propositais do segurado não são indenizados."
+        }
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "Cada produto tem *suas regras.*",
+      "corpo": "Exclusões variam por seguradora e plano. Confira sempre as condições gerais antes de apresentar a proposta."
+    },
+    {
+      "layout": "cta",
+      "titulo": "Na dúvida sobre uma cláusula, *pergunte para a Gold.*",
+      "corpo": "A gente lê as condições gerais com você.",
+      "botao": "Fale com a Gold"
+    }
+  ],
+  "legenda": "A maior parte das reclamações no residencial vem de algo que estava escrito, mas ninguém leu. Desgaste, infiltração gradual, objetos de valor sem declaração, alagamento sem adicional e danos intencionais costumam ficar de fora.\n\nAs regras variam por produto e seguradora. Salve este post e revise com o cliente na próxima venda.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#seguroresidencial",
+    "#condicoesgerais",
+    "#goldserviceseguros"
+  ],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}
