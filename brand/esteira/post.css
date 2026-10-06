@@ -26,10 +26,6 @@ html, body { background: #222; }
 .foto::after { content: ""; position: absolute; inset: 0;
   background: linear-gradient(180deg, rgba(3, 14, 28, .7) 0%, rgba(3, 14, 28, .1) 16%, rgba(3, 14, 28, .25) 34%, rgba(3, 14, 28, .75) 52%, rgba(3, 14, 28, .97) 76%); }
 
-/* moldura com canto chanfrado (corte 45° do monograma) */
-.moldura { position: absolute; inset: 0; pointer-events: none; z-index: 0; }
-.moldura path { fill: none; stroke: var(--line-dark); stroke-width: 2; }
-.ivory .moldura path { stroke: var(--line-light); }
 
 /* ênfase: serifa itálica dourada dentro de títulos em sans */
 em { font-family: var(--font-display); font-style: italic; font-weight: 400; letter-spacing: -0.01em;
@@ -78,7 +74,6 @@ strong { font-weight: 600; }
 .seta span { font-size: 1.3em; margin-left: 8px; }
 
 .rodape { display: flex; justify-content: space-between; font-size: var(--post-caption); letter-spacing: .06em; opacity: .65; position: relative; z-index: 1; padding-top: var(--space-4); }
-.pag { font-variant-numeric: tabular-nums; }
 
 /* número grande */
 .num-grande { font-family: var(--font-display); font-style: italic; font-size: 150px; line-height: 1; margin-bottom: var(--space-3);

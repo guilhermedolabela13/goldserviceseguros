@@ -34,7 +34,7 @@ export const FORMATOS = {
 export const foto = (s) => s.imagem
   ? `<div class="foto" style="background-image:url('${/^https?:/.test(s.imagem) ? s.imagem : pathToFileURL(path.join(BRAND, s.imagem)).href}')"></div>` : '';
 
-// ── Peças de moldura comuns ───────────────────────────────────────────
+// ── Peças comuns (topo e rodapé) ───────────────────────────────────────────
 const topo = (s, ctx) => `
   <header class="topo">
     <span class="eyebrow">${esc(s.eyebrow ?? ctx.pilar ?? '')}</span>
@@ -44,7 +44,7 @@ const topo = (s, ctx) => `
 const rodape = (ctx) => `
   <footer class="rodape">
     <span>@goldserviceseguros</span>
-    ${ctx.total > 1 ? `<span class="pag">${String(ctx.i + 1).padStart(2, '0')} / ${String(ctx.total).padStart(2, '0')}</span>` : `<span>${esc(ctx.assinatura)}</span>`}
+    <span>${esc(ctx.assinatura)}</span>
   </footer>`;
 
 const seta = (ctx) => (ctx.total > 1 && ctx.i < ctx.total - 1)

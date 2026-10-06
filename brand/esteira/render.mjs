@@ -20,12 +20,6 @@ async function carregarPlaywright() {
   return require(path.join(root, 'playwright'));
 }
 
-function moldura(w, h) {
-  const m = 32, c = 96;
-  return `<svg class="moldura" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}">
-    <path d="M${m} ${m}H${w - m - c}L${w - m} ${m + c}V${h - m}H${m}Z"/></svg>`;
-}
-
 export function htmlSlide(spec, i) {
   const s = spec.slides[i];
   const { w, h } = FORMATOS[spec.formato_peca ?? 'feed'];
@@ -37,7 +31,7 @@ export function htmlSlide(spec, i) {
   return `<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
 <base href="${base}esteira/">
 <link rel="stylesheet" href="../tokens/tokens.css"><link rel="stylesheet" href="post.css">
-</head><body><div class="post ${tema}${s.imagem ? ' tem-foto' : ''}" style="--w:${w}px;--h:${h}px">${moldura(w, h)}${layout(s, ctx)}</div></body></html>`;
+</head><body><div class="post ${tema}${s.imagem ? ' tem-foto' : ''}" style="--w:${w}px;--h:${h}px">${layout(s, ctx)}</div></body></html>`;
 }
 
 export async function renderizar(spec, saida) {
