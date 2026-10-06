@@ -9,7 +9,6 @@ import { LAYOUTS, TEMA_PADRAO, FORMATOS } from './layouts.mjs';
 
 const AQUI = path.dirname(fileURLToPath(import.meta.url));
 const BRAND = path.resolve(AQUI, '..');
-const ASSINATURA = 'Gold Service · Assessoria de Seguros';
 
 async function carregarPlaywright() {
   const require = createRequire(import.meta.url);
@@ -26,7 +25,7 @@ export function htmlSlide(spec, i) {
   const layout = LAYOUTS[s.layout];
   if (!layout) throw new Error(`Layout desconhecido: ${s.layout} (slide ${i + 1})`);
   const tema = s.tema ?? TEMA_PADRAO[s.layout] ?? 'ivory';
-  const ctx = { i, total: spec.slides.length, tema, pilar: spec.pilar, assinatura: ASSINATURA };
+  const ctx = { i, total: spec.slides.length, tema, pilar: spec.pilar };
   const base = pathToFileURL(BRAND + '/').href;
   return `<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
 <base href="${base}esteira/">

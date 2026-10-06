@@ -44,11 +44,7 @@ const topo = (s, ctx) => `
 const rodape = (ctx) => `
   <footer class="rodape">
     <span>@goldserviceseguros</span>
-    <span>${esc(ctx.assinatura)}</span>
   </footer>`;
-
-const seta = (ctx) => (ctx.total > 1 && ctx.i < ctx.total - 1)
-  ? '<div class="seta">Deslize <span>→</span></div>' : '';
 
 // ── Layouts ───────────────────────────────────────────────────────────
 export const LAYOUTS = {
@@ -60,7 +56,7 @@ export const LAYOUTS = {
       <h1 class="display xl">${md(s.titulo)}</h1>
       ${s.subtitulo ? `<p class="lead">${md(s.subtitulo)}</p>` : ''}
     </div>
-    ${seta(ctx)}${rodape(ctx)}`,
+    ${rodape(ctx)}`,
 
   texto: (s, ctx) => `
     ${foto(s)}${topo(s, ctx)}
@@ -71,7 +67,7 @@ export const LAYOUTS = {
       <p class="corpo">${md(s.corpo)}</p>
       ${s.nota ? `<p class="nota">${md(s.nota)}</p>` : ''}
     </div>
-    ${seta(ctx)}${rodape(ctx)}`,
+    ${rodape(ctx)}`,
 
   lista: (s, ctx) => `
     ${topo(s, ctx)}
@@ -83,7 +79,7 @@ export const LAYOUTS = {
           <span class="li-n">${String(k + 1).padStart(2, '0')}</span></li>`).join('')}
       </ol>
     </div>
-    ${seta(ctx)}${rodape(ctx)}`,
+    ${rodape(ctx)}`,
 
   passos: (s, ctx) => `
     ${topo(s, ctx)}
@@ -94,7 +90,7 @@ export const LAYOUTS = {
           <div><strong>${md(p.titulo)}</strong>${p.texto ? `<p>${md(p.texto)}</p>` : ''}</div></div>`).join('')}
       </div>
     </div>
-    ${seta(ctx)}${rodape(ctx)}`,
+    ${rodape(ctx)}`,
 
   dado: (s, ctx) => `
     ${foto(s)}${topo(s, ctx)}
@@ -105,16 +101,15 @@ export const LAYOUTS = {
       ${s.extras ? `<div class="dado-extra">${s.extras.map((x) => `<div class="vidro"><b>${esc(x.numero)}</b><span>${esc(x.rotulo)}</span></div>`).join('')}</div>` : ''}
       ${s.fonte ? `<p class="fonte">Fonte: ${md(s.fonte)}</p>` : ''}
     </div>
-    ${seta(ctx)}${rodape(ctx)}`,
+    ${rodape(ctx)}`,
 
   mito: (s, ctx) => `
     ${topo(s, ctx)}
     <div class="miolo">
-      <div class="selo ${s.veredito === 'Verdade' ? 'verdade' : 'mito'}">${esc(s.veredito)}</div>
       <h2 class="display l afirmacao">“${md(s.afirmacao)}”</h2>
       <div class="cartao vidro"><p class="corpo">${md(s.explicacao)}</p></div>
     </div>
-    ${seta(ctx)}${rodape(ctx)}`,
+    ${rodape(ctx)}`,
 
   checklist: (s, ctx) => `
     ${topo(s, ctx)}
@@ -122,7 +117,7 @@ export const LAYOUTS = {
       <h2 class="display m">${md(s.titulo)}</h2>
       <ul class="check">${s.itens.map((t) => `<li class="vidro"><span class="box"></span><span>${md(t)}</span></li>`).join('')}</ul>
     </div>
-    ${seta(ctx)}${rodape(ctx)}`,
+    ${rodape(ctx)}`,
 
   comparativo: (s, ctx) => `
     ${topo(s, ctx)}
@@ -134,7 +129,7 @@ export const LAYOUTS = {
           <ul>${s[lado].itens.map((t) => `<li>${md(t)}</li>`).join('')}</ul></div>`).join('')}
       </div>
     </div>
-    ${seta(ctx)}${rodape(ctx)}`,
+    ${rodape(ctx)}`,
 
   citacao: (s, ctx) => `
     <div class="aspas">“</div>
@@ -146,7 +141,7 @@ export const LAYOUTS = {
         <p class="autor"><strong>${esc(s.autor)}</strong>${s.cargo ? `<br>${esc(s.cargo)}` : ''}</p>
       </div>
     </div>
-    ${seta(ctx)}${rodape(ctx)}`,
+    ${rodape(ctx)}`,
 
   cta: (s, ctx) => `
     ${foto(s)}<div class="cta">
@@ -154,7 +149,7 @@ export const LAYOUTS = {
       <h2 class="display l">${md(s.titulo)}</h2>
       ${s.corpo ? `<p class="lead">${md(s.corpo)}</p>` : ''}
       ${s.botao ? `<div class="botao">${esc(s.botao)}</div>` : ''}
-      <div class="cta-assina">${WORDMARK}<span>${esc(ctx.assinatura)}</span></div>
+      <div class="cta-assina">${WORDMARK}</div>
     </div>`,
 };
 
