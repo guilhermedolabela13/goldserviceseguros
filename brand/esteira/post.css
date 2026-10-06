@@ -24,7 +24,7 @@ html, body { background: #222; }
 /* foto de fundo opcional (campo "imagem") */
 .foto { position: absolute; inset: 0; z-index: -1; background-size: cover; background-position: center; }
 .foto::after { content: ""; position: absolute; inset: 0;
-  background: linear-gradient(180deg, rgba(3, 14, 28, .15) 0%, rgba(3, 14, 28, .55) 45%, rgba(3, 14, 28, .96) 78%); }
+  background: linear-gradient(180deg, rgba(3, 14, 28, .7) 0%, rgba(3, 14, 28, .1) 16%, rgba(3, 14, 28, .25) 34%, rgba(3, 14, 28, .75) 52%, rgba(3, 14, 28, .97) 76%); }
 
 /* moldura com canto chanfrado (corte 45° do monograma) */
 .moldura { position: absolute; inset: 0; pointer-events: none; z-index: 0; }
@@ -72,6 +72,7 @@ strong { font-weight: 600; }
 .marca-dagua { position: absolute; right: -60px; top: 170px; width: 560px; opacity: .22; pointer-events: none; z-index: 0; }
 .marca-dagua .mono { width: 100%; color: var(--gold-100); }
 .tem-foto .marca-dagua { display: none; }
+.tem-foto .miolo { justify-content: flex-end; padding-bottom: var(--space-6); }
 .seta { position: absolute; right: var(--space-11); bottom: calc(var(--space-8) + 64px); font-size: var(--post-caption); font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--gold-100); z-index: 1; }
 .ivory .seta { color: var(--gold-900); }
 .seta span { font-size: 1.3em; margin-left: 8px; }

@@ -5,15 +5,63 @@
   "formato": "carrossel",
   "referencia": "ref-passo-a-passo",
   "slides": [
-    { "layout": "capa", "titulo": "Sua próxima venda pode ser *amanhã.*", "subtitulo": "Como virar corretor parceiro Gold em 3 passos." },
-    { "layout": "passos", "titulo": "Do cadastro à primeira venda.", "passos": [
-      { "titulo": "Cadastro", "texto": "Formulário rápido com seus dados e número SUSEP." },
-      { "titulo": "Aprovação", "texto": "Análise da equipe Gold em até 7 dias úteis." },
-      { "titulo": "Comece a vender", "texto": "Acesso liberado às seguradoras parceiras." } ] },
-    { "layout": "comparativo", "titulo": "Sozinho ou *com a Gold?*", "esquerda": { "rotulo": "Sozinho", "itens": ["Negociar com cada seguradora", "Esperar na fila do atendimento", "Crescer sem apoio comercial"] }, "direita": { "rotulo": "Com a Gold", "itens": ["Cadastro único", "Resposta em até 20 minutos", "Campanhas com prêmios para parceiros"] } },
-    { "layout": "cta", "titulo": "Mais de *500 corretores* já operam com a Gold.", "corpo": "17 anos de mercado em Minas Gerais, aberta a parceiros de todo o Brasil.", "botao": "Quero ser parceiro" }
+    {
+      "layout": "capa",
+      "titulo": "Sua próxima venda pode ser *amanhã.*",
+      "subtitulo": "Como virar corretor parceiro Gold em 3 passos.",
+      "imagem": "assets/fotos/parceria.jpg"
+    },
+    {
+      "layout": "passos",
+      "titulo": "Do cadastro à primeira venda.",
+      "passos": [
+        {
+          "titulo": "Cadastro",
+          "texto": "Formulário rápido com seus dados e número SUSEP."
+        },
+        {
+          "titulo": "Aprovação",
+          "texto": "Análise da equipe Gold em até 7 dias úteis."
+        },
+        {
+          "titulo": "Comece a vender",
+          "texto": "Acesso liberado às seguradoras parceiras."
+        }
+      ]
+    },
+    {
+      "layout": "comparativo",
+      "titulo": "Sozinho ou *com a Gold?*",
+      "esquerda": {
+        "rotulo": "Sozinho",
+        "itens": [
+          "Negociar com cada seguradora",
+          "Esperar na fila do atendimento",
+          "Crescer sem apoio comercial"
+        ]
+      },
+      "direita": {
+        "rotulo": "Com a Gold",
+        "itens": [
+          "Cadastro único",
+          "Resposta em até 20 minutos",
+          "Campanhas com prêmios para parceiros"
+        ]
+      }
+    },
+    {
+      "layout": "cta",
+      "titulo": "Mais de *500 corretores* já operam com a Gold.",
+      "corpo": "17 anos de mercado em Minas Gerais, aberta a parceiros de todo o Brasil.",
+      "botao": "Quero ser parceiro"
+    }
   ],
   "legenda": "Cadastro, aprovação em até 7 dias úteis e acesso às seguradoras parceiras. É assim que o corretor começa a operar com a Gold.\n\nCadastre-se pelo link na bio ou chame no WhatsApp (31) 98990-7238.",
-  "hashtags": ["#corretordeseguros", "#assessoriadeseguros", "#belohorizonte", "#goldserviceseguros"],
+  "hashtags": [
+    "#corretordeseguros",
+    "#assessoriadeseguros",
+    "#belohorizonte",
+    "#goldserviceseguros"
+  ],
   "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
 }

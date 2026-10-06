@@ -5,13 +5,43 @@
   "formato": "carrossel",
   "referencia": "ref-mito-verdade",
   "slides": [
-    { "layout": "capa", "titulo": "3 mitos que *seu cliente* ainda acredita.", "subtitulo": "Salve e use na próxima objeção." },
-    { "layout": "mito", "veredito": "Mito", "afirmacao": "Seguro residencial é só para quem tem casa própria.", "explicacao": "Quem mora de aluguel também contrata, para proteger os próprios bens e a responsabilidade civil." },
-    { "layout": "mito", "veredito": "Mito", "afirmacao": "Seguro de vida só serve depois que a pessoa falece.", "explicacao": "Muitos produtos incluem coberturas em vida, como invalidez por acidente e doenças graves. Confira as condições de cada seguradora." },
-    { "layout": "mito", "veredito": "Mito", "afirmacao": "Ler as condições gerais é perda de tempo.", "explicacao": "É lá que estão coberturas, exclusões e carências. Pela nova lei, exclusões devem aparecer em destaque." },
-    { "layout": "cta", "titulo": "Objeção técnica? *Chame a Gold.*", "corpo": "Suporte por pessoa, não por protocolo.", "botao": "Fale com a Gold" }
+    {
+      "layout": "capa",
+      "titulo": "3 mitos que *seu cliente* ainda acredita.",
+      "subtitulo": "Salve e use na próxima objeção.",
+      "imagem": "assets/fotos/casa.jpg"
+    },
+    {
+      "layout": "mito",
+      "veredito": "Mito",
+      "afirmacao": "Seguro residencial é só para quem tem casa própria.",
+      "explicacao": "Quem mora de aluguel também contrata, para proteger os próprios bens e a responsabilidade civil."
+    },
+    {
+      "layout": "mito",
+      "veredito": "Mito",
+      "afirmacao": "Seguro de vida só serve depois que a pessoa falece.",
+      "explicacao": "Muitos produtos incluem coberturas em vida, como invalidez por acidente e doenças graves. Confira as condições de cada seguradora."
+    },
+    {
+      "layout": "mito",
+      "veredito": "Mito",
+      "afirmacao": "Ler as condições gerais é perda de tempo.",
+      "explicacao": "É lá que estão coberturas, exclusões e carências. Pela nova lei, exclusões devem aparecer em destaque."
+    },
+    {
+      "layout": "cta",
+      "titulo": "Objeção técnica? *Chame a Gold.*",
+      "corpo": "Suporte por pessoa, não por protocolo.",
+      "botao": "Fale com a Gold"
+    }
   ],
   "legenda": "Três crenças que aparecem toda semana na mesa do corretor, e como responder a cada uma com clareza.\n\nQual mito você mais escuta? Deixe nos comentários que a gente faz a parte 2.",
-  "hashtags": ["#corretordeseguros", "#segurodevida", "#seguroresidencial", "#goldserviceseguros"],
+  "hashtags": [
+    "#corretordeseguros",
+    "#segurodevida",
+    "#seguroresidencial",
+    "#goldserviceseguros"
+  ],
   "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62 · Coberturas variam conforme produto e seguradora."
 }

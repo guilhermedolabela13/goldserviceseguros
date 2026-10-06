@@ -6,7 +6,8 @@
     {
       "layout": "capa",
       "titulo": "Sinistro de auto: o cliente liga para você *primeiro.*",
-      "subtitulo": "Como orientar em 3 passos."
+      "subtitulo": "Como orientar em 3 passos.",
+      "imagem": "assets/fotos/carro.jpg"
     },
     {
       "layout": "passos",

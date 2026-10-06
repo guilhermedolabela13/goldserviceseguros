@@ -5,16 +5,60 @@
   "formato": "carrossel",
   "referencia": "ref-calendario-acao",
   "slides": [
-    { "layout": "capa", "titulo": "A renovação não começa no vencimento. Começa *90 dias antes.*", "subtitulo": "O calendário que protege a sua carteira." },
-    { "layout": "passos", "titulo": "Três janelas, três conversas.", "passos": [
-      { "titulo": "90 dias: revisar", "texto": "Mudou o carro, a casa, a família? Atualize o perfil antes de cotar." },
-      { "titulo": "60 dias: cotar", "texto": "Compare seguradoras com calma, sem a pressão do prazo." },
-      { "titulo": "30 dias: fechar", "texto": "Apresente a proposta e deixe a decisão pronta antes do vencimento." } ] },
-    { "layout": "texto", "numero": "01", "titulo": "Quem liga primeiro, *renova.*", "corpo": "Cliente sem contato perto do vencimento vira alvo fácil de quem oferece desconto na última hora." },
-    { "layout": "checklist", "titulo": "Na conversa dos 90 dias, pergunte:", "itens": ["Houve troca de veículo ou de endereço?", "Entrou um novo condutor?", "O imóvel passou por reforma?", "Surgiu um risco novo no negócio?", "Os capitais segurados ainda fazem sentido?"] },
-    { "layout": "cta", "titulo": "Corretor parceiro Gold *não renova sozinho.*", "corpo": "Nossa equipe ajuda a montar as cotações com as seguradoras parceiras.", "botao": "Fale com a Gold" }
+    {
+      "layout": "capa",
+      "titulo": "A renovação não começa no vencimento. Começa *90 dias antes.*",
+      "subtitulo": "O calendário que protege a sua carteira.",
+      "imagem": "assets/fotos/agenda.jpg"
+    },
+    {
+      "layout": "passos",
+      "titulo": "Três janelas, três conversas.",
+      "passos": [
+        {
+          "titulo": "90 dias: revisar",
+          "texto": "Mudou o carro, a casa, a família? Atualize o perfil antes de cotar."
+        },
+        {
+          "titulo": "60 dias: cotar",
+          "texto": "Compare seguradoras com calma, sem a pressão do prazo."
+        },
+        {
+          "titulo": "30 dias: fechar",
+          "texto": "Apresente a proposta e deixe a decisão pronta antes do vencimento."
+        }
+      ]
+    },
+    {
+      "layout": "texto",
+      "numero": "01",
+      "titulo": "Quem liga primeiro, *renova.*",
+      "corpo": "Cliente sem contato perto do vencimento vira alvo fácil de quem oferece desconto na última hora."
+    },
+    {
+      "layout": "checklist",
+      "titulo": "Na conversa dos 90 dias, pergunte:",
+      "itens": [
+        "Houve troca de veículo ou de endereço?",
+        "Entrou um novo condutor?",
+        "O imóvel passou por reforma?",
+        "Surgiu um risco novo no negócio?",
+        "Os capitais segurados ainda fazem sentido?"
+      ]
+    },
+    {
+      "layout": "cta",
+      "titulo": "Corretor parceiro Gold *não renova sozinho.*",
+      "corpo": "Nossa equipe ajuda a montar as cotações com as seguradoras parceiras.",
+      "botao": "Fale com a Gold"
+    }
   ],
   "legenda": "Renovação bem feita começa 90 dias antes do vencimento. Revisar aos 90, cotar aos 60 e fechar aos 30 dá tempo de conversar com o cliente, comparar seguradoras e evitar a corrida da última semana.\n\nSalve este post para montar o seu calendário e mande para um colega corretor.",
-  "hashtags": ["#corretordeseguros", "#renovacao", "#mercadosegurador", "#goldserviceseguros"],
+  "hashtags": [
+    "#corretordeseguros",
+    "#renovacao",
+    "#mercadosegurador",
+    "#goldserviceseguros"
+  ],
   "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
 }
