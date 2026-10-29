@@ -7,7 +7,22 @@
       "file": "01-corretor-celular.png",
       "tipo": "cenário",
       "use": "corretor esperando resposta do cliente, cotação parada, follow-up; capa com .cenario.baixo",
-      "gerado": "Codex, 2026-10-29, aprovado como âncora: pendente"
+      "gerado": "Codex, 2026-10-29, aprovada como âncora pelo Guilherme"
+    },
+    {
+      "file": "02-celular-balao.png",
+      "tipo": "objeto (fundo navy liso)",
+      "use": "mensagem, WhatsApp, follow-up útil; .asset.fundo-navy.canto"
+    },
+    {
+      "file": "03-duas-opcoes.png",
+      "tipo": "objeto (fundo navy liso)",
+      "use": "comparar propostas, segunda opção, franquia; .asset.fundo-navy.canto"
+    },
+    {
+      "file": "04-porta-aberta.png",
+      "tipo": "objeto (fundo navy liso)",
+      "use": "encerrar com respeito, porta aberta, relacionamento; .asset.fundo-navy.canto"
     }
   ]
 }

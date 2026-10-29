@@ -44,3 +44,12 @@ html, body { width: 1080px; height: 1350px; overflow: hidden; background: var(--
   background: linear-gradient(180deg, rgba(3, 14, 28, .85) 0%, rgba(3, 14, 28, .35) 30%, rgba(3, 14, 28, 0) 50%); }
 /* Cenário mais baixo, quando o título ocupa mais que o terço superior */
 .cenario.baixo { top: 150px; bottom: -150px; -webkit-mask-image: linear-gradient(180deg, transparent 0, #000 260px); mask-image: linear-gradient(180deg, transparent 0, #000 260px); }
+
+/* Objeto 3D gerado com fundo navy liso (o gerador não entrega PNG transparente): borda esfumada por máscara */
+.asset.fundo-navy { filter: none; -webkit-mask-image: radial-gradient(closest-side, #000 62%, transparent 100%); mask-image: radial-gradient(closest-side, #000 62%, transparent 100%); }
+/* Objeto no canto do título, saindo de trás do card de mensagem */
+.asset.canto { width: 480px; right: -40px; top: 150px; }
+.com-asset .alto h2 { max-width: 560px; }
+.com-asset .msg { margin-top: var(--space-6); padding: 44px 52px 34px; }
+.com-asset .msg-txt { font-size: 44px; }
+.com-asset .porque { margin-top: var(--space-6); }

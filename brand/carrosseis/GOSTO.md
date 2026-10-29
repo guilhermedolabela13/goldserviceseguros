@@ -27,6 +27,7 @@ Ler antes de criar qualquer peça. Atualizar na mesma rodada em que houver aprov
 
 ### Funciona
 - Capa com foto still-life noturna e título grande na metade de baixo (fotos do Codex aplicadas nas capas, out/2026).
+- Série 3D editorial Gold (corretor sem rosto, terno navy com detalhe dourado, escritório noturno, objetos foscos navy e dourado): aprovada com entusiasmo, "pode fazer nessa linha" (29/10/2026).
 - Direção das 12 referências do Guilherme: fundo escuro com brilho, vidro, objeto em destaque (`brand/acervo/imagens/`).
 
 ## Diário
@@ -36,3 +37,4 @@ Ler antes de criar qualquer peça. Atualizar na mesma rodada em que houver aprov
 | 2026-10 | Posts do lançamento | todos os slides | tirar moldura dourada e contador de lâminas | removidos do post.css |
 | 2026-10 | Posts do lançamento | rodapé e slides de mito | tirar "Deslize", assinatura do rodapé e selo Mito/Verdade | removidos |
 | 2026-10 | Capas | foto de fundo | aplicar as fotos geradas no Codex | 5 fotos em `assets/fotos/`, degradê reforçado no topo |
+| 2026-10-29 | cotacao-sem-resposta v2 | capa e slides de mensagem | trazer os 3D da skill original | âncora do corretor aprovada; 3 objetos gerados na mesma linha |
