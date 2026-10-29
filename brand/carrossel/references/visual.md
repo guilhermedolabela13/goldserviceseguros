@@ -22,6 +22,8 @@ Abra a galeria (`carrosseis/index.html`), os PNGs das versões aprovadas e os po
 | `.msg`, `.msg-rot`, `.msg-txt`, `.msg-hora`, `.porque` | carrossel.css | conversa, roteiro de fala, script |
 | `.etapa` | carrossel.css | momento de uma sequência (dia 1, dia 4...) sem numerar slide |
 | `.mono-fundo` | carrossel.css | monograma grande cortado pela borda |
+| `.asset` | carrossel.css | asset 3D transparente, grande, sangrando ou apoiado num card |
+| `.cenario` | carrossel.css | cenário 3D 4:5 de fundo, título no terço superior |
 
 Precisa de uma composição nova? Escreva em `carrossel.css` e reutilize nos próximos; não espalhe `style=""`.
 
@@ -32,17 +34,20 @@ Precisa de uma composição nova? Escreva em `carrossel.css` e reutilize nos pr�
 - **Sem vazio morto:** se o slide tem pouco texto, o título cresce ou entra um card ou foto grande. Metade do slide vazia é erro.
 - **Destaque:** uma expressão em Fraunces itálico dourado por título.
 
-## Fotos e assets
-- Fotos still-life noturnas com luz dourada (`brand/assets/fotos/`), grandes: fundo inteiro na capa ou sangrando pela base.
-- Texto sobre foto sempre com o degradê da classe; confira o contraste no PNG.
-- Não misture estilos de imagem no mesmo carrossel. Nada de banco de imagem genérico.
+## Assets 3D e fotos
+- Padrão do carrossel: **série 3D editorial Gold** (`references/image-gen.md`), o corretor sem rosto e objetos foscos em navy com detalhe dourado. Fica em `brand/assets/3d/<serie>/`.
+- Grandes e integrados: saindo de trás de um card de vidro, sangrando pela borda, apoiados na composição. Nunca pequenos e soltos no meio.
+- Situação vivida (o corretor fazendo algo) vira **cenário**: título no terço superior, cena embaixo de borda a borda, sem card. Conceito ou metáfora fica com **objeto**.
+- Uma série por carrossel: não misture 3D com foto nem duas séries 3D.
+- Foto still-life (`brand/assets/fotos/`) continua valendo para a esteira e para temas que pedem o objeto real.
+- Texto sobre imagem sempre com o degradê da classe; confira o contraste no PNG.
 
 ## Fundo
 Navy com brilho dourado no canto superior direito (já está no `.post.navy`). Um slide em marfim no máximo, para quebrar o ritmo. O CTA fica em navy.
 
 ## Evitar
 - Moldura dourada, contador de slides, "Deslize", selo Mito/Verdade (`GOSTO.md`).
-- Cantos arredondados, emoji, sparkles, ícones de banco.
+- Cantos arredondados em cards e botões (a forma da marca é o corte 45°), emoji, sparkles, ícones de banco.
 - Dourado em grandes áreas: é acento (10%).
 - Muitos elementos competindo; texto centralizado longo.
 

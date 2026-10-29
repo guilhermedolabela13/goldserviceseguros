@@ -1,6 +1,9 @@
 # Assets
 
-As fotos da Gold ficam em `brand/assets/fotos/` (uma fonte só para a esteira e para o carrossel).
+Duas séries de imagem, com os arquivos em `brand/assets/` (uma fonte só para a esteira e para o carrossel):
+- `3d/`: série 3D editorial Gold, o padrão do carrossel (ver `3d/README.md`).
+- `fotos/`: fotos still-life noturnas, usadas nas capas da esteira.
+
 Esta pasta guarda os `manifest.json` de cada série, para a skill saber o que já existe antes de pedir imagem nova:
 
 ```json

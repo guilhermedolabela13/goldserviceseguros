@@ -29,8 +29,8 @@ Só a palavra em Fraunces itálico dourado. Não somar com sublinhado, chip ou m
 - Rótulo do topo: `.eyebrow` com o pilar editorial, em caixa alta espaçada, também com o corte 45°.
 - Monograma em degradê dourado no canto superior direito de todo slide.
 - Botão do CTA: bloco dourado metálico com corte 45° (`.botao`).
-- Fotos: still-life noturno com luz quente dourada (`brand/assets/fotos/`).
-- Nunca: moldura dourada em volta do slide, contador de slides, "Deslize", selo Mito/Verdade, emoji como ilustração, cantos arredondados.
+- Assets: série 3D editorial Gold no carrossel (o corretor sem rosto, objetos foscos navy com detalhe dourado, `brand/assets/3d/`); fotos still-life noturnas com luz dourada na esteira (`brand/assets/fotos/`).
+- Nunca: moldura dourada em volta do slide, contador de slides, "Deslize", selo Mito/Verdade, emoji como ilustração, cantos arredondados em cards e botões.
 
 ## Composição
 - Margem lateral: 88px (`--space-11`).

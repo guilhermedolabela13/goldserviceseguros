@@ -37,7 +37,7 @@ Siga `references/visual.md`. Resumo:
 - Parta das peças aprovadas na galeria e dos PNGs em `saida/`, não de um layout novo a cada vez.
 - Use `templates/slide-base.html` como esqueleto. Ele já carrega tokens, fontes, `post.css` e `templates/carrossel.css`: **não reescreva cores nem fontes à mão**, use as classes e variáveis.
 - Um foco por slide. Foto ou card grande, integrado à composição.
-- Se nenhuma foto de `brand/assets/fotos/` servir, **não invente nem gere sozinho**: diga qual falta e entregue o prompt pronto (`references/image-gen.md`) para gerar no Codex.
+- **Assets 3D próprios**, como na skill original: série 3D editorial Gold (o corretor sem rosto, objetos foscos navy com detalhe dourado) em `brand/assets/3d/<serie>/`. Se nenhum asset servir, **não invente nem gere sozinho**: diga qual falta e entregue o prompt pronto (`references/image-gen.md`) para gerar no Codex.
 - Nunca numere slides, nunca "Deslize", nunca moldura dourada (ver `GOSTO.md`).
 
 ## 4. Render e checagem

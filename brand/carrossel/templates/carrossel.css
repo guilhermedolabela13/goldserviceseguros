@@ -35,3 +35,10 @@ html, body { width: 1080px; height: 1350px; overflow: hidden; background: var(--
 
 /* Monograma grande de fundo, cortado pela borda */
 .mono-fundo { position: absolute; right: -140px; bottom: -120px; width: 760px; opacity: .10; z-index: 0; pointer-events: none; }
+
+/* Asset 3D (PNG transparente): grande, apoiado na composição ou sangrando pela borda, nunca solto no meio */
+.asset { position: absolute; z-index: 0; pointer-events: none; filter: drop-shadow(0 40px 60px rgba(0, 0, 0, .45)); }
+/* Cenário 3D (4:5, fundo navy cheio): ocupa o slide inteiro, título no terço superior */
+.cenario { position: absolute; inset: 0; z-index: -1; background-size: cover; background-position: center bottom; }
+.cenario::before { content: ""; position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(3, 14, 28, .85) 0%, rgba(3, 14, 28, .35) 30%, rgba(3, 14, 28, 0) 50%); }
