@@ -14,6 +14,8 @@ Tudo o que gera as peças de redes sociais da Gold: marca, layouts, acervo de re
 | `posts/` | O texto de cada post em JSON (uma fonte por post) |
 | `saida/` | PNGs 1080×1350 e `legenda.txt` de cada post |
 | `pesquisa/` | Relatório e notas da pesquisa de marcas, engajamento e regras SUSEP/CONAR |
+| `carrossel/` | Skill /carrossel na marca Gold: roteiro, slides em HTML, PNG 2x, slider e galeria ([README](carrossel/README.md)) |
+| `carrosseis/` | Projeto da skill: marca, gosto, galeria e os carrosséis feitos com ela |
 
 ## Uso
 

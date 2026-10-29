@@ -1,0 +1,27 @@
+{
+  "style": "Foto editorial noturna: objeto real em superfície escura, luz quente dourada lateral, fundo navy profundo, pouca profundidade de campo. Sem pessoas com rosto, sem texto, sem marcas.",
+  "anchor": "agenda.jpg",
+  "path": "../../../assets/fotos/",
+  "assets": [
+    {
+      "file": "agenda.jpg",
+      "use": "planejamento, renovação, calendário, rotina da corretora"
+    },
+    {
+      "file": "carro.jpg",
+      "use": "seguro auto, sinistro de auto, reajuste do auto"
+    },
+    {
+      "file": "casa.jpg",
+      "use": "seguro residencial, exclusões, chuvas"
+    },
+    {
+      "file": "celular.jpg",
+      "use": "atendimento, tempo de resposta, conversa com cliente, WhatsApp"
+    },
+    {
+      "file": "parceria.jpg",
+      "use": "parceria, seja parceiro, aperto de mão, relacionamento"
+    }
+  ]
+}
