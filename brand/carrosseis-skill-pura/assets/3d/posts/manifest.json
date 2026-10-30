@@ -1,0 +1,70 @@
+{
+  "style": "3D editorial fosco da skill original, fundo marfim liso, paleta Gold (navy #061C37, dourado #D7B05A, marfim #FAF6E8). Gerado no Codex com a âncora serie-01/01-corretor-espera.png.",
+  "anchor": "../serie-01/01-corretor-espera.png",
+  "assets": [
+    {
+      "file": "01-renovacao-90-dias.png",
+      "use": "capa do post: um calendário de mesa navy com três argolas douradas e uma página marcada com um círculo dourado, ao lado de uma ampulheta dourada fosca"
+    },
+    {
+      "file": "02-nova-lei-do-seguro.png",
+      "use": "capa do post: um livro grosso de capa navy fechado com um marcador de fita dourada e uma balança da justiça pequena dourada fosca apoiada ao lado"
+    },
+    {
+      "file": "03-cross-sell-auto.png",
+      "use": "capa do post: uma chave de carro navy em um chaveiro dourado, conectada por fios dourados finos a três pequenos ícones 3D: uma casinha marfim, um coração navy e um prédio pequeno"
+    },
+    {
+      "file": "04-mitos-do-seguro.png",
+      "use": "capa do post: um grande ponto de interrogação 3D navy fosco ao lado de uma casinha marfim com telhado dourado"
+    },
+    {
+      "file": "06-seja-parceiro.png",
+      "use": "capa do post: o corretor apertando a mão de outra pessoa sem rosto (de costas, terno marfim), gesto de parceria"
+    },
+    {
+      "file": "07-manifesto.png",
+      "use": "capa do post: o corretor sentado à mesa marfim, relaxado e focado no celular, enquanto pastas navy e documentos estão organizados numa prateleira atrás dele"
+    },
+    {
+      "file": "09-sinistro-auto-passo-a-passo.png",
+      "use": "capa do post: um carro compacto navy fosco com um triângulo de sinalização dourado ao lado e um celular marfim deitado no chão"
+    },
+    {
+      "file": "10-manifesto-faz-nao-faz.png",
+      "use": "capa do post: um cofre navy fosco com porta entreaberta e detalhe dourado, ao lado de uma prancheta marfim"
+    },
+    {
+      "file": "11-reel-sinistro-negado.png",
+      "use": "capa do post: uma apólice de papel marfim dobrada com uma lupa dourada por cima e um carro navy pequeno ao fundo"
+    },
+    {
+      "file": "12-exclusoes-residencial.png",
+      "use": "capa do post: uma casinha navy com telhado dourado e uma lupa marfim grande examinando a parede com uma pequena mancha de infiltração"
+    },
+    {
+      "file": "14-por-que-auto-encarece.png",
+      "use": "capa do post: um carro compacto navy com uma seta 3D dourada subindo ao lado, como um gráfico"
+    },
+    {
+      "file": "15-reel-bastidores-cotacao.png",
+      "use": "capa do post: o corretor em pé, olhando o celular com uma pilha organizada de folhas de cotação marfim ao lado numa mesa pequena navy"
+    },
+    {
+      "file": "16-mitos-vida-sucessao.png",
+      "use": "capa do post: um guarda-chuva navy aberto protegendo uma pequena família de três bonecos sem rosto em marfim"
+    },
+    {
+      "file": "17-checklist-chuvas.png",
+      "use": "capa do post: um guarda-chuva navy aberto sobre uma casinha marfim, com uma nuvem de chuva 3D cinza-azulada acima e gotas"
+    },
+    {
+      "file": "18-mande-sua-cotacao.png",
+      "use": "capa do post: um avião de papel dourado fosco voando sobre uma folha marfim"
+    },
+    {
+      "file": "19-linkedin-do-o.png",
+      "use": "capa do post: uma cadeira executiva navy com um escudo dourado fosco apoiado à frente"
+    }
+  ]
+}

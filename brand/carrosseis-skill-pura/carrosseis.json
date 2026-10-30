@@ -27,6 +27,514 @@
         "Instagram",
         "LinkedIn"
       ]
+    },
+    {
+      "id": "01-renovacao-90-dias",
+      "title": "Renovação começa 90 dias antes",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Inteligência comercial.",
+      "createdAt": "2026-10-30",
+      "slideCount": 5,
+      "status": "Em revisão · não publicado",
+      "cover": "01-renovacao-90-dias/v1/slide-01.png",
+      "viewer": "01-renovacao-90-dias/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "01-renovacao-90-dias/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Renovação bem feita começa 90 dias antes do vencimento. Revisar aos 90, cotar aos 60 e fechar aos 30 dá tempo de conversar com o cliente, comparar seguradoras e evitar a corrida da última semana.\n\nSalve este post para montar o seu calendário e mande para um colega corretor.\n\n#corretordeseguros #renovacao #mercadosegurador #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#renovacao",
+        "#mercadosegurador",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "02-nova-lei-do-seguro",
+      "title": "Nova Lei do Seguro: 3 pontos para o corretor",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Mercado & regras.",
+      "createdAt": "2026-10-30",
+      "slideCount": 4,
+      "status": "Em revisão · não publicado",
+      "cover": "02-nova-lei-do-seguro/v1/slide-01.png",
+      "viewer": "02-nova-lei-do-seguro/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "02-nova-lei-do-seguro/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "A Lei 15.040/2024, o novo marco dos contratos de seguro, está em vigor desde dezembro de 2025. Separamos três pontos que mexem direto com a rotina da corretora: prazo de entrega de documentos, exclusões em destaque e interpretação a favor do segurado.\n\nSalve para consultar e envie para o seu time.\n\n#corretordeseguros #leidoseguro #mercadosegurador #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62 · Conteúdo informativo, não substitui orientação jurídica.",
+      "hashtags": [
+        "#corretordeseguros",
+        "#leidoseguro",
+        "#mercadosegurador",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "03-cross-sell-auto",
+      "title": "Cross-sell: o cliente de auto é a sua melhor carteira",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Inteligência comercial.",
+      "createdAt": "2026-10-30",
+      "slideCount": 4,
+      "status": "Em revisão · não publicado",
+      "cover": "03-cross-sell-auto/v1/slide-01.png",
+      "viewer": "03-cross-sell-auto/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "03-cross-sell-auto/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "O cliente que já tem o seguro do carro com você é o caminho mais curto para ampliar a carteira. Residencial, vida, empresarial e previdência entram naturalmente na conversa de renovação.\n\nQual desses você mais vende hoje? Conta nos comentários.\n\n#corretordeseguros #vendas #crosssell #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#vendas",
+        "#crosssell",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "04-mitos-do-seguro",
+      "title": "3 mitos que travam a venda",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Técnico sem juridiquês.",
+      "createdAt": "2026-10-30",
+      "slideCount": 5,
+      "status": "Em revisão · não publicado",
+      "cover": "04-mitos-do-seguro/v1/slide-01.png",
+      "viewer": "04-mitos-do-seguro/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "04-mitos-do-seguro/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Três crenças que aparecem toda semana na mesa do corretor, e como responder a cada uma com clareza.\n\nQual mito você mais escuta? Deixe nos comentários que a gente faz a parte 2.\n\n#corretordeseguros #segurodevida #seguroresidencial #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62 · Coberturas variam conforme produto e seguradora.",
+      "hashtags": [
+        "#corretordeseguros",
+        "#segurodevida",
+        "#seguroresidencial",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "05-resposta-20-minutos",
+      "title": "Resposta em até 20 minutos",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Gente Gold.",
+      "createdAt": "2026-10-30",
+      "slideCount": 1,
+      "status": "Em revisão · não publicado",
+      "cover": "05-resposta-20-minutos/v1/slide-01.png",
+      "viewer": "05-resposta-20-minutos/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "05-resposta-20-minutos/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Corretor não pode esperar fila. Na Gold, o parceiro fala com alguém que conhece a carteira dele, com resposta em até 20 minutos no horário comercial.\n\nQuer operar assim? Link na bio.\n\n#corretordeseguros #assessoriadeseguros #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#assessoriadeseguros",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "06-seja-parceiro",
+      "title": "Como virar parceiro Gold",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Parceria Gold.",
+      "createdAt": "2026-10-30",
+      "slideCount": 4,
+      "status": "Em revisão · não publicado",
+      "cover": "06-seja-parceiro/v1/slide-01.png",
+      "viewer": "06-seja-parceiro/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "06-seja-parceiro/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Cadastro, aprovação em até 7 dias úteis e acesso às seguradoras parceiras. É assim que o corretor começa a operar com a Gold.\n\nCadastre-se pelo link na bio ou chame no WhatsApp (31) 98990-7238.\n\n#corretordeseguros #assessoriadeseguros #belohorizonte #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#assessoriadeseguros",
+        "#belohorizonte",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "07-manifesto",
+      "title": "Manifesto Gold",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Quem somos.",
+      "createdAt": "2026-10-30",
+      "slideCount": 1,
+      "status": "Em revisão · não publicado",
+      "cover": "07-manifesto/v1/slide-01.png",
+      "viewer": "07-manifesto/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "07-manifesto/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Operação, relacionamento e suporte ficam com a gente. Ao corretor parceiro, sobra o que importa: vender.\n\n17 anos fazendo isso em Belo Horizonte.\n\n#corretordeseguros #assessoriadeseguros #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#assessoriadeseguros",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "08-numeros-gold",
+      "title": "500+ corretores parceiros",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Parceria Gold.",
+      "createdAt": "2026-10-30",
+      "slideCount": 1,
+      "status": "Em revisão · não publicado",
+      "cover": "08-numeros-gold/v1/slide-01.png",
+      "viewer": "08-numeros-gold/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "08-numeros-gold/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Mais de 500 corretores parceiros, 17 anos de mercado e resposta em até 20 minutos. Esse é o tamanho da rede que você encontra na Gold.\n\nSeja parceiro: link na bio.\n\n#corretordeseguros #assessoriadeseguros #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#assessoriadeseguros",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "09-sinistro-auto-passo-a-passo",
+      "title": "Sinistro de auto em 3 passos",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Técnico sem juridiquês.",
+      "createdAt": "2026-10-30",
+      "slideCount": 4,
+      "status": "Em revisão · não publicado",
+      "cover": "09-sinistro-auto-passo-a-passo/v1/slide-01.png",
+      "viewer": "09-sinistro-auto-passo-a-passo/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "09-sinistro-auto-passo-a-passo/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Na hora do sinistro, o primeiro telefonema do cliente costuma ser para o corretor. Ter um roteiro claro faz toda a diferença: segurança primeiro, aviso à seguradora e acompanhamento até o fim.\n\nSalve este passo a passo e envie para um colega corretor.\nProcedimentos e documentos podem variar conforme a seguradora.\n\n#corretordeseguros #sinistro #seguroauto #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#sinistro",
+        "#seguroauto",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "10-manifesto-faz-nao-faz",
+      "title": "O que a Gold faz e o que não faz",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Quem somos.",
+      "createdAt": "2026-10-30",
+      "slideCount": 5,
+      "status": "Em revisão · não publicado",
+      "cover": "10-manifesto-faz-nao-faz/v1/slide-01.png",
+      "viewer": "10-manifesto-faz-nao-faz/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "10-manifesto-faz-nao-faz/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Seguro não é produto de prateleira. É uma decisão sobre o patrimônio de alguém, e o corretor é quem conduz essa conversa.\n\nO papel da Gold é tirar do seu caminho o que não é venda: operação, cotação e acompanhamento. O cliente continua sendo seu.\n\nMande para um colega que ainda faz tudo sozinho.\n\n#corretordeseguros #assessoriadeseguros #mercadosegurador #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#assessoriadeseguros",
+        "#mercadosegurador",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "11-reel-sinistro-negado",
+      "title": "Reel: por que um sinistro é negado",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Técnico sem juridiquês.",
+      "createdAt": "2026-10-30",
+      "slideCount": 6,
+      "status": "Em revisão · não publicado",
+      "cover": "11-reel-sinistro-negado/v1/slide-01.png",
+      "viewer": "11-reel-sinistro-negado/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "11-reel-sinistro-negado/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "ROTEIRO DO REEL (30–40 s, legendas na tela)\n\n0–3 s · Gancho, fundador na câmera: \"O dia em que uma apólice não pagou. E por quê.\"\n3–10 s · Contexto: conte um caso real e anonimizado da Gold (sem nome de cliente nem de seguradora).\n10–30 s · Os 4 motivos das telas 01 a 04, um por corte.\n30–35 s · CTA: \"Antes de fechar, revise o perfil com a Gold.\"\n\nLEGENDA DO POST\nQuase toda negativa de sinistro começa na venda. Informação divergente, cobertura que o cliente achava que tinha, parcela atrasada ou risco que mudou sem aviso.\n\nSalve e use como checklist antes da próxima proposta.\n\n#corretordeseguros #sinistro #seguroauto #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#sinistro",
+        "#seguroauto",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "12-exclusoes-residencial",
+      "title": "5 exclusões do seguro residencial",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Técnico sem juridiquês.",
+      "createdAt": "2026-10-30",
+      "slideCount": 5,
+      "status": "Em revisão · não publicado",
+      "cover": "12-exclusoes-residencial/v1/slide-01.png",
+      "viewer": "12-exclusoes-residencial/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "12-exclusoes-residencial/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "A maior parte das reclamações no residencial vem de algo que estava escrito, mas ninguém leu. Desgaste, infiltração gradual, objetos de valor sem declaração, alagamento sem adicional e danos intencionais costumam ficar de fora.\n\nAs regras variam por produto e seguradora. Salve este post e revise com o cliente na próxima venda.\n\n#corretordeseguros #seguroresidencial #condicoesgerais #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#seguroresidencial",
+        "#condicoesgerais",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "13-credenciais-gold",
+      "title": "Credenciais da Gold",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Quem somos.",
+      "createdAt": "2026-10-30",
+      "slideCount": 1,
+      "status": "Em revisão · não publicado",
+      "cover": "13-credenciais-gold/v1/slide-01.png",
+      "viewer": "13-credenciais-gold/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "13-credenciais-gold/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Antes de fechar parceria, confira com quem você está falando. Gold Service Seguros, assessoria de seguros em Belo Horizonte desde 2009, CNPJ 10.875.768/0001-62.\n\nMais de 500 corretores parceiros, resposta em até 20 minutos no horário comercial (seg–sex, 9h–18h) e cadastro aprovado em até 7 dias úteis.\n\n#corretordeseguros #assessoriadeseguros #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#assessoriadeseguros",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "14-por-que-auto-encarece",
+      "title": "Por que o seguro auto encarece",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Mercado & regras.",
+      "createdAt": "2026-10-30",
+      "slideCount": 5,
+      "status": "Em revisão · não publicado",
+      "cover": "14-por-que-auto-encarece/v1/slide-01.png",
+      "viewer": "14-por-que-auto-encarece/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "14-por-que-auto-encarece/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Reajuste explicado é cliente mantido. Custo de reparo, roubo e furto na região e frequência de sinistros pesam no preço do seguro auto, e o perfil do cliente faz o resto.\n\nUse o checklist na próxima renovação e mande para um colega.\n\n#corretordeseguros #seguroauto #renovacao #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#seguroauto",
+        "#renovacao",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "15-reel-bastidores-cotacao",
+      "title": "Reel: bastidores de uma cotação",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Gente Gold.",
+      "createdAt": "2026-10-30",
+      "slideCount": 3,
+      "status": "Em revisão · não publicado",
+      "cover": "15-reel-bastidores-cotacao/v1/slide-01.png",
+      "viewer": "15-reel-bastidores-cotacao/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "15-reel-bastidores-cotacao/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "ROTEIRO DO REEL (30–40 s, legendas na tela)\n\n0–3 s · Gancho: tela do celular recebendo o pedido. \"O que acontece depois que você manda a cotação?\"\n3–28 s · Equipe real em ação, um corte por passo (atender, ler o risco, cotar, enviar).\n28–35 s · CTA: \"Teste com a sua próxima cotação.\"\n\nConfira os passos com a equipe antes de gravar.\n\nLEGENDA DO POST\nPedido recebido, risco lido, seguradoras comparadas e proposta na sua mão. Atendimento por pessoa, resposta em até 20 minutos no horário comercial.\n\nComente \"cotação\" que a gente chama você.\n\n#corretordeseguros #bastidores #assessoriadeseguros #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#bastidores",
+        "#assessoriadeseguros",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "16-mitos-vida-sucessao",
+      "title": "Mitos do seguro de vida e sucessão",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Técnico sem juridiquês.",
+      "createdAt": "2026-10-30",
+      "slideCount": 5,
+      "status": "Em revisão · não publicado",
+      "cover": "16-mitos-vida-sucessao/v1/slide-01.png",
+      "viewer": "16-mitos-vida-sucessao/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "16-mitos-vida-sucessao/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Seguro de vida é uma das ferramentas mais simples de planejamento sucessório, e muita gente ainda acha que ele entra no inventário. Não entra: o capital vai direto ao beneficiário.\n\nSalve para usar na próxima conversa com cliente de alta renda.\n\n#corretordeseguros #segurodevida #sucessao #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#segurodevida",
+        "#sucessao",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "17-checklist-chuvas",
+      "title": "Checklist da temporada de chuvas",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Inteligência comercial.",
+      "createdAt": "2026-10-30",
+      "slideCount": 4,
+      "status": "Em revisão · não publicado",
+      "cover": "17-checklist-chuvas/v1/slide-01.png",
+      "viewer": "17-checklist-chuvas/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "17-checklist-chuvas/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Outubro abre a temporada de chuvas em boa parte do país. É o momento certo para revisar alagamento, vendaval, danos elétricos e lucros cessantes com a carteira, antes do primeiro temporal.\n\nSalve o checklist e mande para um colega corretor.\n\n#corretordeseguros #chuvas #seguroresidencial #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#chuvas",
+        "#seguroresidencial",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "18-mande-sua-cotacao",
+      "title": "CTA: mande sua próxima cotação",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Parceria Gold.",
+      "createdAt": "2026-10-30",
+      "slideCount": 1,
+      "status": "Em revisão · não publicado",
+      "cover": "18-mande-sua-cotacao/v1/slide-01.png",
+      "viewer": "18-mande-sua-cotacao/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "18-mande-sua-cotacao/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Tem uma cotação parada aí? Mande para a Gold. Uma pessoa da equipe responde em até 20 minutos no horário comercial e compara seguradoras parceiras com o seu cadastro único.\n\nChame no direct ou no WhatsApp do link da bio.\n\n#corretordeseguros #cotacao #assessoriadeseguros #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#cotacao",
+        "#assessoriadeseguros",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "19-linkedin-do-o",
+      "title": "LinkedIn: D&O para corretores",
+      "description": "Post da esteira refeito 100% na skill /carrossel original, só com as cores da Gold. Pilar: Técnico sem juridiquês.",
+      "createdAt": "2026-10-30",
+      "slideCount": 6,
+      "status": "Em revisão · não publicado",
+      "cover": "19-linkedin-do-o/v1/slide-01.png",
+      "viewer": "19-linkedin-do-o/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "19-linkedin-do-o/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "D&O ainda é pouco oferecido e muito necessário. Ele protege o patrimônio pessoal de quem administra uma empresa contra reclamações por atos de gestão.\n\nSe você já atende o empresarial de um cliente, a conversa sobre D&O é o próximo passo natural. Baixe o documento e salve para consultar.\n\n#corretordeseguros #DeO #seguroempresarial #goldserviceseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#DeO",
+        "#seguroempresarial",
+        "#goldserviceseguros"
+      ],
+      "platforms": [
+        "LinkedIn"
+      ]
     }
   ]
 }

@@ -21,3 +21,4 @@ Ler antes de criar qualquer peça. Atualizar na mesma rodada em que houver aprov
 | Data | Peça | Onde | Pedido | Feito |
 |---|---|---|---|---|
 | 2026-10-30 | cotacao-sem-resposta v1 | carrossel inteiro | "100% com base na skill, apenas nas cores da Gold" | skill original sem alteração; só marca.json com as cores da Gold; 3D da série 01 gerado no Codex com a âncora da capa |
+| 2026-10-30 | os 19 posts da esteira (v1) | todos | "faz com todos os posts agora" | copy dos posts de brand/posts, layout da skill pura com as cores da Gold, 1 imagem 3D por post gerada no Codex (16 usadas) |
