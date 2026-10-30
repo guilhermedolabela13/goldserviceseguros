@@ -1,0 +1,20 @@
+{
+  "id": "cotacao-sem-resposta-sem-skill",
+  "titulo": "Cliente sumiu depois da cotação",
+  "pilar": "Inteligência comercial",
+  "formato": "carrossel",
+  "referencia": "ref-lista-principios",
+  "_nota": "Feito só com a esteira (npm run post), sem a skill /carrossel: a busca escolheu ref-lista-principios e o texto segue a estrutura dela, para comparar com a v1 da skill.",
+  "slides": [
+    { "layout": "capa", "titulo": "3 mensagens para o cliente que *sumiu* depois da cotação.", "subtitulo": "Retome a conversa sem parecer cobrança.", "imagem": "assets/fotos/celular.jpg" },
+    { "layout": "lista", "titulo": "Quando o cliente não responde:", "itens": [
+      { "titulo": "No dia seguinte", "texto": "Mande algo útil sobre a cotação, não um \"e aí?\"." },
+      { "titulo": "Três dias depois", "texto": "Traga uma segunda opção para comparar." },
+      { "titulo": "Uma semana depois", "texto": "Pause com respeito e deixe a porta aberta." } ] },
+    { "layout": "texto", "titulo": "O silêncio quase nunca é um *não.*", "corpo": "Muitas vezes o cliente só não parou para comparar. Quem volta com contexto, e não com pressão, volta para a conversa." },
+    { "layout": "cta", "titulo": "Cotação rápida não deixa a conversa *esfriar.*", "corpo": "Na Gold, o corretor parceiro tem resposta em até 20 minutos, de segunda a sexta, das 9h às 18h.", "botao": "Seja parceiro Gold" }
+  ],
+  "legenda": "Cotação enviada, cliente em silêncio. Acontece com todo corretor. Salve estas 3 mensagens para a próxima vez e mande para um colega.",
+  "hashtags": ["#corretordeseguros", "#goldserviceseguros", "#vendadeseguros"],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

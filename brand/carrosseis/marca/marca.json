@@ -1,0 +1,29 @@
+{
+  "nome": "Gold Service Seguros",
+  "tagline": "Assessoria de seguros para corretores, desde 2009.",
+  "cores": {
+    "primaria": "#061C37",
+    "destaque": "#F8D077",
+    "destaque-sobre-claro": "#8C6A28",
+    "texto": "#FAF6E8",
+    "texto-suave": "#8EA2BB",
+    "fundo": "#FAF6E8",
+    "fundo-slide": "#061C37",
+    "fundo-profundo": "#030E1C",
+    "apoio": ["#D7B05A", "#12395F", "#EDE4CC"]
+  },
+  "fonte": {
+    "familia": "Inter",
+    "arquivos": { "400": "../../fonts/Inter.woff2", "500": "../../fonts/Inter.woff2", "600": "../../fonts/Inter.woff2", "700": "../../fonts/Inter.woff2" },
+    "css": "",
+    "enfase": "Fraunces itálico (../../fonts/Fraunces-Italic.woff2)"
+  },
+  "logo": "../../assets/monograma.svg",
+  "tokens": "../../tokens/tokens.css",
+  "estilos": "../../esteira/post.css",
+  "voz": "../../esteira/voz.mjs",
+  "handle": "@goldserviceseguros",
+  "rodape-legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+  "plataformas": ["Instagram", "LinkedIn"],
+  "_nota": "primaria = navy (cor-âncora; é a que os scripts usam no slider e na galeria). fundo = marfim da galeria. Os slides usam fundo-slide (navy) e destaque (dourado), sempre pelos tokens."
+}

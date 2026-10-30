@@ -1,0 +1,10 @@
+{
+  "name": "gold-carrossel",
+  "private": true,
+  "type": "module",
+  "description": "Dependências dos scripts da skill /carrossel (edição Gold).",
+  "dependencies": {
+    "playwright": "1.56.1",
+    "sharp": "^0.33.5"
+  }
+}
