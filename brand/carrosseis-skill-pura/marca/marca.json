@@ -1,0 +1,16 @@
+{
+  "nome": "Gold Service Seguros",
+  "tagline": "Assessoria de seguros para corretores.",
+  "cores": {
+    "primaria": "#061C37",
+    "texto": "#061C37",
+    "texto-suave": "#5A6573",
+    "fundo": "#FAF6E8",
+    "fundo-profundo": "#EDE4CC",
+    "apoio": ["#D7B05A", "#8C6A28"]
+  },
+  "fonte": { "familia": "Inter", "arquivos": {}, "css": "" },
+  "logo": "logo.svg",
+  "plataformas": ["Instagram", "LinkedIn"],
+  "_nota": "Versão 'skill pura': só as cores da Gold aplicadas na skill original. Fonte, layout, destaque e estilo de asset são os padrões da skill."
+}

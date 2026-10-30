@@ -1,0 +1,26 @@
+{
+  "style": "3D editorial fosco da skill original (fundo claro, personagem sem rosto), paleta Gold: navy #061C37, dourado #D7B05A, marfim #FAF6E8. Gerado no Codex.",
+  "anchor": "01-corretor-espera.png",
+  "assets": [
+    {
+      "file": "01-corretor-espera.png",
+      "use": "capa: o corretor esperando resposta na poltrona"
+    },
+    {
+      "file": "02-celular-digitando.png",
+      "use": "objeto: celular com balão digitando (silêncio, conversa em aberto)"
+    },
+    {
+      "file": "03-corretor-mensagem.png",
+      "use": "corretor de pé com celular e a folha da cotação (mensagem útil)"
+    },
+    {
+      "file": "04-corretor-opcoes.png",
+      "use": "corretor segurando duas pastas, navy e dourada (opção nova)"
+    },
+    {
+      "file": "05-corretor-porta.png",
+      "use": "corretor acenando ao lado de porta entreaberta (deixar a porta aberta)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "updatedAt": "2026-10-30",
+  "carousels": [
+    {
+      "id": "cotacao-sem-resposta",
+      "title": "Mandou a cotação e o cliente sumiu?",
+      "description": "Versão 100% skill /carrossel original: layout, fundo claro e 3D da skill, só com as cores da Gold.",
+      "createdAt": "2026-10-30",
+      "slideCount": 6,
+      "status": "Exemplo · em revisão · não publicado",
+      "cover": "cotacao-sem-resposta/v1/slide-01.png",
+      "viewer": "cotacao-sem-resposta/v1/ver-carrossel.html",
+      "versions": [
+        {
+          "label": "v1 · skill pura, cores da Gold",
+          "href": "cotacao-sem-resposta/v1/ver-carrossel.html"
+        }
+      ],
+      "caption": "Cotação enviada, cliente em silêncio. Acontece com todo corretor.\n\nO silêncio quase nunca é um não: na maioria das vezes, o cliente só não parou para comparar. Estas 3 mensagens retomam a conversa com contexto, sem pressão.\n\nSalve para usar na próxima cotação e mande para um colega que vive isso.\n\n#corretordeseguros #goldserviceseguros #vendadeseguros #mercadodeseguros\n\nGold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62",
+      "hashtags": [
+        "#corretordeseguros",
+        "#goldserviceseguros",
+        "#vendadeseguros",
+        "#mercadodeseguros"
+      ],
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    }
+  ]
+}
