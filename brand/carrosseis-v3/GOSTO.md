@@ -9,6 +9,8 @@
 - Prometer prazo de resposta ("20 minutos"). (2026-11-25: "não é possível prometer isso")
 - Dizer que "a apólice não pagou": o termo é indenização ("Não houve indenização?"). (2026-11-25)
 
+- Citar horário de atendimento (9h–18h, segunda a sexta, horário comercial). (2026-11-25: "melhor não citar")
+
 ### Sempre
 - Imagem de fundo gerada inteira, do tamanho do slide, com o prompt dizendo em que faixa da imagem o texto vai ficar (zona livre). (2026-11-25: "a imagem completa de fundo deve ser gerada... oriente na geração onde a info deve ficar")
 - Usar o azul (navy #061C37) como fundo em parte dos slides: capas alternam navy/marfim por post, internos alternam, CTA de carrossel sempre navy. (2026-11-25)
@@ -20,3 +22,4 @@
 |---|---|---|---|---|
 | 2026-11-25 | 19 posts (v3) | todos | "mistura com o design system, para de criar sombras... use tbm o azul no fundo" + fundo inteiro gerado com zona do texto | gerar.mjs novo; fundos 3D 1 por capa gerados no Codex (prompts em assets/fundos/prompts.json) |
 | 2026-11-25 | 19 posts (v3) | copy | revisão do Guilherme | renovação a partir dos 30 dias (30/20/10); sem "20 minutos" em nenhum post; sem "crescer sem apoio comercial"; "Não houve indenização?" no lugar de "a apólice não pagou"; exclusões residencial com 3 itens (slide "E também" removido); chuvas: alagamento no residencial, granizo no auto |
+| 2026-11-25 | 19 posts (v3) | copy | "esse 9-18h tá horrível" | horário tirado de todos os posts; post 05 virou "1 cadastro para acessar várias seguradoras" |

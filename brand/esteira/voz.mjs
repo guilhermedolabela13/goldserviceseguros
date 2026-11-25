@@ -12,7 +12,7 @@ export const VOZ = {
   rodapeLegal: 'Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62',
   sistema: `Você escreve posts para a Gold Service Seguros, assessoria de seguros B2B de Belo Horizonte (desde 2009).
 Público: corretores de seguros (parceiros ou potenciais parceiros). A Gold conecta o corretor às seguradoras
-parceiras com cadastro único, atende de segunda a sexta, das 9h às 18h, por pessoa
+parceiras com cadastro único, atende por pessoa
 e não por protocolo, roda campanhas com prêmios para parceiros e tem mais de 500 corretores parceiros. Ramos: vida,
 auto, residencial, empresarial, saúde e previdência. Aprovação do cadastro em até 7 dias úteis.
 
@@ -39,6 +39,7 @@ const PROIBIDAS = [
   [/100\s?% (protegid|segur|cobert)/i, 'promessa de proteção absoluta'],
   [/sem burocracia/i, 'promessa "sem burocracia"'],
   [/\b20\s?min/i, 'prazo de resposta (não prometer "20 minutos")'],
+  [/9h|18h|segunda a sexta|hor[aá]rio comercial/i, 'horário de atendimento (não citar)'],
   [/\b(o|a) melhor (seguro|seguradora|corretora|assessoria|pre[cç]o)/i, 'superlativo não comprovável'],
   [/mais barat[oa]/i, 'comparação de preço não comprovável'],
   [/R\$\s?\d/i, 'preço citado: exige condições, data e perfil'],

@@ -7,23 +7,24 @@
   "slides": [
     {
       "layout": "dado",
-      "numero": "9h–18h",
-      "titulo": "de segunda a sexta, com *gente* do outro lado.",
+      "numero": "1",
+      "titulo": "para acessar *várias seguradoras* parceiras.",
       "corpo": "Atendimento por pessoa, não por protocolo.",
       "extras": [
         {
-          "numero": "1",
-          "rotulo": "cadastro, várias seguradoras"
+          "numero": "500+",
+          "rotulo": "corretores parceiros"
         },
         {
           "numero": "7 dias",
           "rotulo": "para aprovar o cadastro"
         }
       ],
-      "imagem": "assets/fotos/celular.jpg"
+      "imagem": "assets/fotos/celular.jpg",
+      "unidade": "cadastro"
     }
   ],
-  "legenda": "Corretor não pode esperar fila. Na Gold, o parceiro fala com uma pessoa que conhece a carteira dele, de segunda a sexta, das 9h às 18h.\n\nQuer operar assim? Link na bio.",
+  "legenda": "Corretor não pode esperar fila. Na Gold, o parceiro fala com uma pessoa que conhece a carteira dele, e acessa várias seguradoras com um cadastro só.\n\nQuer operar assim? Link na bio.",
   "hashtags": [
     "#corretordeseguros",
     "#assessoriadeseguros",
