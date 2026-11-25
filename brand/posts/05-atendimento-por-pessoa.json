@@ -1,0 +1,33 @@
+{
+  "id": "05-atendimento-por-pessoa",
+  "titulo": "Atendimento por pessoa",
+  "pilar": "Gente Gold",
+  "formato": "post",
+  "referencia": "ref-dado-destaque",
+  "slides": [
+    {
+      "layout": "dado",
+      "numero": "9h–18h",
+      "titulo": "de segunda a sexta, com *gente* do outro lado.",
+      "corpo": "Atendimento por pessoa, não por protocolo.",
+      "extras": [
+        {
+          "numero": "1",
+          "rotulo": "cadastro, várias seguradoras"
+        },
+        {
+          "numero": "7 dias",
+          "rotulo": "para aprovar o cadastro"
+        }
+      ],
+      "imagem": "assets/fotos/celular.jpg"
+    }
+  ],
+  "legenda": "Corretor não pode esperar fila. Na Gold, o parceiro fala com uma pessoa que conhece a carteira dele, de segunda a sexta, das 9h às 18h.\n\nQuer operar assim? Link na bio.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#assessoriadeseguros",
+    "#goldserviceseguros"
+  ],
+  "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
+}

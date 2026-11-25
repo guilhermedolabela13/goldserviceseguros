@@ -8,7 +8,7 @@
   "slides": [
     {
       "layout": "capa",
-      "titulo": "Por que *a apólice não pagou?*",
+      "titulo": "Não houve *indenização?*",
       "subtitulo": "4 motivos que o corretor pode evitar antes de vender.",
       "imagem": "assets/fotos/carro.jpg"
     },
@@ -43,7 +43,7 @@
       "botao": "Fale com a Gold"
     }
   ],
-  "legenda": "ROTEIRO DO REEL (30–40 s, legendas na tela)\n\n0–3 s · Gancho, fundador na câmera: \"O dia em que uma apólice não pagou. E por quê.\"\n3–10 s · Contexto: conte um caso real e anonimizado da Gold (sem nome de cliente nem de seguradora).\n10–30 s · Os 4 motivos das telas 01 a 04, um por corte.\n30–35 s · CTA: \"Antes de fechar, revise o perfil com a Gold.\"\n\nLEGENDA DO POST\nQuase toda negativa de sinistro começa na venda. Informação divergente, cobertura que o cliente achava que tinha, parcela atrasada ou risco que mudou sem aviso.\n\nSalve e use como checklist antes da próxima proposta.",
+  "legenda": "ROTEIRO DO REEL (30–40 s, legendas na tela)\n\n0–3 s · Gancho, fundador na câmera: \"O dia em que um sinistro não foi indenizado. E por quê.\"\n3–10 s · Contexto: conte um caso real e anonimizado da Gold (sem nome de cliente nem de seguradora).\n10–30 s · Os 4 motivos das telas 01 a 04, um por corte.\n30–35 s · CTA: \"Antes de fechar, revise o perfil com a Gold.\"\n\nLEGENDA DO POST\nQuase toda negativa de sinistro começa na venda. Informação divergente, cobertura que o cliente achava que tinha, parcela atrasada ou risco que mudou sem aviso.\n\nSalve e use como checklist antes da próxima proposta.",
   "hashtags": [
     "#corretordeseguros",
     "#sinistro",

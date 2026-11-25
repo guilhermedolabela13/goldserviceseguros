@@ -5,9 +5,27 @@
   "formato": "post",
   "referencia": "ref-dado-destaque",
   "slides": [
-    { "layout": "dado", "numero": "500+", "titulo": "corretores parceiros crescem com a *estrutura da Gold.*", "extras": [ { "numero": "17 anos", "rotulo": "de mercado" }, { "numero": "Até 20 min", "rotulo": "de resposta" } ] }
+    {
+      "layout": "dado",
+      "numero": "500+",
+      "titulo": "corretores parceiros crescem com a *estrutura da Gold.*",
+      "extras": [
+        {
+          "numero": "17 anos",
+          "rotulo": "de mercado"
+        },
+        {
+          "numero": "7 dias",
+          "rotulo": "para aprovar o cadastro"
+        }
+      ]
+    }
   ],
-  "legenda": "Mais de 500 corretores parceiros, 17 anos de mercado e resposta em até 20 minutos. Esse é o tamanho da rede que você encontra na Gold.\n\nSeja parceiro: link na bio.",
-  "hashtags": ["#corretordeseguros", "#assessoriadeseguros", "#goldserviceseguros"],
+  "legenda": "Mais de 500 corretores parceiros, 17 anos de mercado e cadastro aprovado em até 7 dias úteis. Esse é o tamanho da rede que você encontra na Gold.\n\nSeja parceiro: link na bio.",
+  "hashtags": [
+    "#corretordeseguros",
+    "#assessoriadeseguros",
+    "#goldserviceseguros"
+  ],
   "rodape_legal": "Gold Service Seguros · Assessoria de seguros · CNPJ 10.875.768/0001-62"
 }

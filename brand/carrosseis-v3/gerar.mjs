@@ -1,7 +1,7 @@
 // Carrosséis v3: estrutura e copy da versão "skill pura" + design system v1 da Gold (tokens, Fraunces no destaque,
 // chanfro do monograma, navy). Sem sombras e sem degradês por cima das imagens: a capa usa um fundo 3D gerado inteiro
 // (assets/fundos/NN.png), que já deixa livre a área do texto. Uso (de brand/): node carrosseis-v3/gerar.mjs
-import {readFileSync,writeFileSync,mkdirSync,readdirSync,existsSync} from 'node:fs';
+import {readFileSync,writeFileSync,mkdirSync,readdirSync,existsSync,rmSync} from 'node:fs';
 const OUT='carrosseis-v3';
 const css=`@font-face{font-family:"Inter";src:url("../../../fonts/Inter.woff2") format("woff2");font-weight:300 800}
 @font-face{font-family:"Fraunces";src:url("../../../fonts/Fraunces-Italic.woff2") format("woff2");font-weight:300 700;font-style:italic}
@@ -125,7 +125,7 @@ ${wm}${prog}${comFoto?'':'  <div class="rodape">@goldserviceseguros</div>\n'}${a
 }
 for(const f of ordem){
   const post=JSON.parse(readFileSync('posts/'+f,'utf8'));
-  const dir=`${OUT}/${post.id}/v1`;mkdirSync(dir,{recursive:true});
+  const dir=`${OUT}/${post.id}/v1`;rmSync(dir,{recursive:true,force:true});mkdirSync(dir,{recursive:true});
   slides(post).forEach((h,k)=>writeFileSync(`${dir}/slide-${String(k+1).padStart(2,'0')}.html`,h));
   lista.push(post);
 }

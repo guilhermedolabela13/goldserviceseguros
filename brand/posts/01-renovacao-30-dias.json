@@ -1,13 +1,13 @@
 {
-  "id": "01-renovacao-90-dias",
-  "titulo": "Renovação começa 90 dias antes",
+  "id": "01-renovacao-30-dias",
+  "titulo": "Renovação começa 30 dias antes",
   "pilar": "Inteligência comercial",
   "formato": "carrossel",
   "referencia": "ref-calendario-acao",
   "slides": [
     {
       "layout": "capa",
-      "titulo": "A renovação não começa no vencimento. Começa *90 dias antes.*",
+      "titulo": "A renovação não começa no vencimento. Começa *30 dias antes.*",
       "subtitulo": "O calendário que protege a sua carteira.",
       "imagem": "assets/fotos/agenda.jpg"
     },
@@ -16,15 +16,15 @@
       "titulo": "Três janelas, três conversas.",
       "passos": [
         {
-          "titulo": "90 dias: revisar",
+          "titulo": "30 dias: revisar",
           "texto": "Mudou o carro, a casa, a família? Atualize o perfil antes de cotar."
         },
         {
-          "titulo": "60 dias: cotar",
+          "titulo": "20 dias: cotar",
           "texto": "Compare seguradoras com calma, sem a pressão do prazo."
         },
         {
-          "titulo": "30 dias: fechar",
+          "titulo": "10 dias: fechar",
           "texto": "Apresente a proposta e deixe a decisão pronta antes do vencimento."
         }
       ]
@@ -37,7 +37,7 @@
     },
     {
       "layout": "checklist",
-      "titulo": "Na conversa dos 90 dias, pergunte:",
+      "titulo": "Na conversa dos 30 dias, pergunte:",
       "itens": [
         "Houve troca de veículo ou de endereço?",
         "Entrou um novo condutor?",
@@ -53,7 +53,7 @@
       "botao": "Fale com a Gold"
     }
   ],
-  "legenda": "Renovação bem feita começa 90 dias antes do vencimento. Revisar aos 90, cotar aos 60 e fechar aos 30 dá tempo de conversar com o cliente, comparar seguradoras e evitar a corrida da última semana.\n\nSalve este post para montar o seu calendário e mande para um colega corretor.",
+  "legenda": "Renovação bem feita começa 30 dias antes do vencimento. Revisar aos 30, cotar aos 20 e fechar aos 10 dá tempo de conversar com o cliente, comparar seguradoras e evitar a corrida da última semana.\n\nSalve este post para montar o seu calendário e mande para um colega corretor.",
   "hashtags": [
     "#corretordeseguros",
     "#renovacao",

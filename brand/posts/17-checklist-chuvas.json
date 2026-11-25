@@ -15,8 +15,8 @@
       "layout": "checklist",
       "titulo": "Revise com cada cliente:",
       "itens": [
-        "Alagamento no seguro auto",
-        "Vendaval e granizo no residencial",
+        "Alagamento no seguro residencial",
+        "Vendaval e granizo no auto",
         "Danos elétricos em casa e na empresa",
         "Lucros cessantes no empresarial",
         "Contatos de assistência 24 h à mão"

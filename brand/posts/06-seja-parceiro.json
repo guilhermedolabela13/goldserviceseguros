@@ -36,15 +36,14 @@
         "rotulo": "Sozinho",
         "itens": [
           "Negociar com cada seguradora",
-          "Esperar na fila do atendimento",
-          "Crescer sem apoio comercial"
+          "Esperar na fila do atendimento"
         ]
       },
       "direita": {
         "rotulo": "Com a Gold",
         "itens": [
           "Cadastro único",
-          "Resposta em até 20 minutos",
+          "Atendimento por pessoa, não por protocolo",
           "Campanhas com prêmios para parceiros"
         ]
       }

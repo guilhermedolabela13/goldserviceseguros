@@ -1,7 +1,7 @@
 [
  {
-  "id": "01-renovacao-90-dias",
-  "titulo": "Renovação começa 90 dias antes",
+  "id": "01-renovacao-30-dias",
+  "titulo": "Renovação começa 30 dias antes",
   "slides": 5,
   "story": false
  },
@@ -24,8 +24,8 @@
   "story": false
  },
  {
-  "id": "05-resposta-20-minutos",
-  "titulo": "Resposta em até 20 minutos",
+  "id": "05-atendimento-por-pessoa",
+  "titulo": "Atendimento por pessoa",
   "slides": 1,
   "story": false
  },
@@ -67,8 +67,8 @@
  },
  {
   "id": "12-exclusoes-residencial",
-  "titulo": "5 exclusões do seguro residencial",
-  "slides": 5,
+  "titulo": "3 exclusões do seguro residencial",
+  "slides": 4,
   "story": false
  },
  {
