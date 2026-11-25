@@ -1,0 +1,69 @@
+<!doctype html>
+<!-- Carrossel v3: skill pura + design system Gold. Sem sombras; fundo da capa gerado inteiro. -->
+<html lang="pt-BR"><head><meta charset="utf-8"><style>
+@font-face{font-family:"Inter";src:url("../../../fonts/Inter.woff2") format("woff2");font-weight:300 800}
+@font-face{font-family:"Fraunces";src:url("../../../fonts/Fraunces-Italic.woff2") format("woff2");font-weight:300 700;font-style:italic}
+:root{--navy:#061C37;--navy8:#0A2A4A;--navy7:#12395F;--ivory:#FAF6E8;--sand:#EDE4CC;--slate:#5A6573;
+  --g9:#8C6A28;--g5:#D7B05A;--g1:#F8D077;--m:80px;--ch:44px}
+*{box-sizing:border-box}html,body{margin:0;overflow:hidden}
+body{position:relative;font-family:Inter,sans-serif;-webkit-font-smoothing:antialiased;background:var(--ivory);color:var(--navy);
+  --tx:var(--navy);--sv:var(--slate);--em:var(--g9);--card:#fff;--fio:rgba(6,28,55,.14);--bola:var(--navy);--bolat:var(--g1)}
+body.navy{background:var(--navy);color:var(--ivory);--tx:var(--ivory);--sv:#DCE3ECcc;--em:var(--g1);--card:var(--navy8);--fio:rgba(248,208,119,.28);--bola:var(--g5);--bolat:var(--navy)}
+body.foto{background-size:cover}
+h1,h2,h3,p{margin:0}
+em{font-family:Fraunces,Georgia,serif;font-style:italic;font-weight:500;color:var(--em);letter-spacing:-.01em}
+.topo{position:absolute;left:var(--m);right:var(--m);top:64px;display:flex;align-items:center;justify-content:space-between;z-index:2}
+.topo .eb{font-size:21px;font-weight:600;letter-spacing:.24em;text-transform:uppercase;color:var(--em)}
+.topo img{width:46px;height:46px}
+.miolo{position:absolute;left:var(--m);right:var(--m);z-index:2;display:flex;flex-direction:column;gap:32px}
+.miolo.centro{justify-content:center}
+.titulo{font-size:86px;line-height:1.04;font-weight:600;letter-spacing:-.035em;color:var(--tx)}
+.titulo em{font-size:1.06em}
+.titulo.m{font-size:72px}
+.apoio{font-size:32px;line-height:1.4;color:var(--sv)}
+.nota{font-size:24px;line-height:1.4;color:var(--sv)}
+.fio{width:120px;height:2px;background:var(--g5)}
+.card{background:var(--card);padding:40px 46px;clip-path:polygon(0 0,calc(100% - var(--ch)) 0,100% var(--ch),100% 100%,0 100%)}
+.card h3{margin:0 0 10px;font-size:40px;font-weight:600;letter-spacing:-.02em;color:var(--tx)}
+.card p{font-size:31px;line-height:1.38;color:var(--sv)}
+.rot{display:block;font-size:20px;font-weight:600;letter-spacing:.24em;color:var(--em);margin-bottom:16px;text-transform:uppercase}
+.fala{font-size:42px!important;line-height:1.32!important;letter-spacing:-.01em;color:var(--tx)!important}
+.num{font-family:Fraunces,Georgia,serif;font-style:italic;font-weight:500;font-size:150px;line-height:.9;color:var(--em);letter-spacing:-.02em}
+.pilha{display:flex;flex-direction:column;gap:16px}
+.linha{display:grid;grid-template-columns:72px 1fr;gap:28px;align-items:start}
+.bola{width:72px;height:72px;background:var(--bola);color:var(--bolat);display:grid;place-items:center;font-size:30px;font-weight:700;
+  clip-path:polygon(0 0,calc(100% - 18px) 0,100% 18px,100% 100%,0 100%)}
+.check{display:grid;grid-template-columns:52px 1fr;gap:24px;align-items:center;font-size:36px;line-height:1.3;padding:22px 0;border-bottom:2px solid var(--fio);color:var(--tx)}
+.check:last-child{border-bottom:0}
+.check i{width:52px;height:52px;background:var(--g5);display:grid;place-items:center;font-style:normal;font-size:24px;color:var(--navy);font-weight:700;
+  clip-path:polygon(0 0,calc(100% - 14px) 0,100% 14px,100% 100%,0 100%)}
+.duas{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.duas .card.inv{background:var(--navy)}.navy .duas .card.inv{background:var(--ivory)}
+.duas .card.inv li{color:var(--ivory)}.navy .duas .card.inv li{color:var(--navy)}
+.duas .card.inv .rot{color:var(--g1)}.navy .duas .card.inv .rot{color:var(--g9)}
+.duas ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:28px;font-size:32px;line-height:1.35;color:var(--tx)}
+.duas li{padding-left:28px;position:relative}.duas li::before{content:"";position:absolute;left:0;top:15px;width:12px;height:12px;background:var(--g5)}
+.extras{display:flex;gap:16px}.extras .card{flex:1;padding:26px 30px;--ch:24px}
+.extras b{display:block;white-space:nowrap;font-size:50px;font-weight:600;letter-spacing:-.03em;color:var(--tx)}
+.extras span{font-size:23px;color:var(--sv)}.foto .extras b{font-size:40px}.foto .extras .card{padding:24px 26px}
+.selo{align-self:flex-start;font-size:22px;font-weight:600;letter-spacing:.24em;padding:14px 24px;background:var(--navy);color:var(--g1);text-transform:uppercase}
+.navy .selo{background:var(--ivory);color:var(--navy)}
+.selo.verdade{background:var(--g5);color:var(--navy)}
+.botao{align-self:flex-start;display:inline-flex;gap:14px;align-items:center;background:var(--g5);color:var(--navy);font-size:32px;font-weight:600;padding:26px 44px;margin-top:12px;
+  clip-path:polygon(0 0,calc(100% - 22px) 0,100% 22px,100% 100%,0 100%)}
+.progresso{position:absolute;left:var(--m);bottom:64px;display:flex;gap:8px;z-index:2}
+.progresso i{width:28px;height:4px;background:rgba(6,28,55,.14)}.progresso i.on{background:var(--navy)}
+.navy .progresso i{background:rgba(255,255,255,.18)}.navy .progresso i.on{background:var(--g5)}
+.rodape{position:absolute;right:var(--m);bottom:56px;font-size:22px;color:var(--sv);z-index:2}
+.wordmark{position:absolute;left:var(--m);bottom:120px;width:280px;color:var(--g5)}.wordmark svg{width:100%;height:auto;display:block}
+.story .titulo{font-size:96px}.story .titulo.m{font-size:84px}.story .fala{font-size:50px!important}.story .card h3{font-size:46px}.story .card p{font-size:36px}
+.story .apoio{font-size:38px}.story .num{font-size:220px}.story .botao{font-size:40px;padding:30px 52px}.story .miolo{gap:42px}
+.denso{gap:22px}.denso .titulo.m{font-size:62px}.denso .pilha{gap:12px}.denso .card{padding:26px 40px}.denso .card h3{font-size:36px;margin-bottom:4px}.denso .card p{font-size:28px}.denso .check{padding:14px 0;font-size:32px}
+</style></head>
+<body class="claro" data-size="1080x1350" style="width:1080px;height:1350px;">
+  <div class="topo"><span class="eb">Técnico sem juridiquês</span><img src="../../assets/monograma-navy.svg" alt=""></div>
+  <div class="miolo centro" style="top:160px;bottom:140px"><span class="selo ">Mito</span><h1 class="titulo m">“Seguro de vida só serve depois que a pessoa falece.”</h1><div class="card"><span class="rot">Na prática</span><p class="fala">Muitos produtos incluem coberturas em vida, como invalidez por acidente e doenças graves. Confira as condições de cada seguradora.</p></div></div>
+  <div class="progresso"><i></i><i></i><i class="on"></i><i></i><i></i></div>
+  <div class="rodape">@goldserviceseguros</div>
+
+</body></html>

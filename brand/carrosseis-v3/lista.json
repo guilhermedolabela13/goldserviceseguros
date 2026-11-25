@@ -1,0 +1,116 @@
+[
+ {
+  "id": "01-renovacao-90-dias",
+  "titulo": "Renovação começa 90 dias antes",
+  "slides": 5,
+  "story": false
+ },
+ {
+  "id": "02-nova-lei-do-seguro",
+  "titulo": "Nova Lei do Seguro: 3 pontos para o corretor",
+  "slides": 4,
+  "story": false
+ },
+ {
+  "id": "03-cross-sell-auto",
+  "titulo": "Cross-sell: o cliente de auto é a sua melhor carteira",
+  "slides": 4,
+  "story": false
+ },
+ {
+  "id": "04-mitos-do-seguro",
+  "titulo": "3 mitos que travam a venda",
+  "slides": 5,
+  "story": false
+ },
+ {
+  "id": "05-resposta-20-minutos",
+  "titulo": "Resposta em até 20 minutos",
+  "slides": 1,
+  "story": false
+ },
+ {
+  "id": "06-seja-parceiro",
+  "titulo": "Como virar parceiro Gold",
+  "slides": 4,
+  "story": false
+ },
+ {
+  "id": "07-manifesto",
+  "titulo": "Manifesto Gold",
+  "slides": 1,
+  "story": false
+ },
+ {
+  "id": "08-numeros-gold",
+  "titulo": "500+ corretores parceiros",
+  "slides": 1,
+  "story": false
+ },
+ {
+  "id": "09-sinistro-auto-passo-a-passo",
+  "titulo": "Sinistro de auto em 3 passos",
+  "slides": 4,
+  "story": false
+ },
+ {
+  "id": "10-manifesto-faz-nao-faz",
+  "titulo": "O que a Gold faz e o que não faz",
+  "slides": 5,
+  "story": false
+ },
+ {
+  "id": "11-reel-sinistro-negado",
+  "titulo": "Reel: por que um sinistro é negado",
+  "slides": 6,
+  "story": true
+ },
+ {
+  "id": "12-exclusoes-residencial",
+  "titulo": "5 exclusões do seguro residencial",
+  "slides": 5,
+  "story": false
+ },
+ {
+  "id": "13-credenciais-gold",
+  "titulo": "Credenciais da Gold",
+  "slides": 1,
+  "story": false
+ },
+ {
+  "id": "14-por-que-auto-encarece",
+  "titulo": "Por que o seguro auto encarece",
+  "slides": 5,
+  "story": false
+ },
+ {
+  "id": "15-reel-bastidores-cotacao",
+  "titulo": "Reel: bastidores de uma cotação",
+  "slides": 3,
+  "story": true
+ },
+ {
+  "id": "16-mitos-vida-sucessao",
+  "titulo": "Mitos do seguro de vida e sucessão",
+  "slides": 5,
+  "story": false
+ },
+ {
+  "id": "17-checklist-chuvas",
+  "titulo": "Checklist da temporada de chuvas",
+  "slides": 4,
+  "story": false
+ },
+ {
+  "id": "18-mande-sua-cotacao",
+  "titulo": "CTA: mande sua próxima cotação",
+  "slides": 1,
+  "story": false
+ },
+ {
+  "id": "19-linkedin-do-o",
+  "titulo": "LinkedIn: D&O para corretores",
+  "slides": 6,
+  "story": false
+ }
+]
